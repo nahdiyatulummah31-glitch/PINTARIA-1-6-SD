@@ -1,0 +1,1682 @@
+[
+  {
+    "grade": 1,
+    "subject": "matematika",
+    "key": "k1-mtk-1",
+    "caption": "Ilustrasi Penjumlahan Buah Apel",
+    "question": "Perhatikan keranjang buah apel pada gambar di atas! Bubu memiliki 5 apel merah dan Ibu menambahkan 3 apel hijau. Berapa jumlah seluruh buah apel Bubu sekarang?",
+    "options": [
+      "8 buah apel",
+      "7 buah apel",
+      "9 buah apel",
+      "10 buah apel"
+    ],
+    "correct": "8 buah apel"
+  },
+  {
+    "grade": 1,
+    "subject": "matematika",
+    "key": "k1-mtk-2",
+    "caption": "Bagan Tiga Bentuk Bangun Datar",
+    "question": "Perhatikan ketiga bentuk bangun datar pada gambar! Bangun datar yang berwarna kuning dan memiliki 3 sisi adalah....",
+    "options": [
+      "Segitiga",
+      "Lingkaran",
+      "Persegi",
+      "Persegi panjang"
+    ],
+    "correct": "Segitiga"
+  },
+  {
+    "grade": 1,
+    "subject": "indonesia",
+    "key": "k1-indo-1",
+    "caption": "Ilustrasi Gambar Hewan Ternak",
+    "question": "Perhatikan gambar hewan di atas! Hewan yang gagah, bersuara kukuruyuk, dan namanya berawalan huruf vokal \"A\" adalah....",
+    "options": [
+      "Ayam",
+      "Bebek",
+      "Kucing",
+      "Burung"
+    ],
+    "correct": "Ayam"
+  },
+  {
+    "grade": 1,
+    "subject": "indonesia",
+    "key": "k1-indo-2",
+    "caption": "Ilustrasi Aktivitas Siswa di Rumah",
+    "question": "Perhatikan gambar di atas! Kegiatan baik apa yang sedang dilakukan oleh anak di meja belajarnya?",
+    "options": [
+      "Membaca buku pelajaran",
+      "Bermain game ponsel",
+      "Tidur siang",
+      "Makan camilan"
+    ],
+    "correct": "Membaca buku pelajaran"
+  },
+  {
+    "grade": 1,
+    "subject": "ipas",
+    "key": "k1-ipas-1",
+    "caption": "Bagan Macam-Macam Panca Indra Manusia",
+    "question": "Perhatikan gambar panca indra di atas! Bagian tubuh manakah yang kita gunakan untuk mendengarkan suara burung bernyanyi dan nasihat guru?",
+    "options": [
+      "Telinga (pendengaran)",
+      "Mata (penglihatan)",
+      "Hidung (penciuman)",
+      "Lidah (pengecap)"
+    ],
+    "correct": "Telinga (pendengaran)"
+  },
+  {
+    "grade": 1,
+    "subject": "ipas",
+    "key": "k1-ipas-2",
+    "caption": "Bagan Bagian-Bagian Tumbuhan Hijau",
+    "question": "Perhatikan gambar bagian tumbuhan di atas! Bagian yang tumbuh di dalam tanah dan berfungsi menyerap air serta zat hara adalah....",
+    "options": [
+      "Akar",
+      "Batang",
+      "Daun",
+      "Bunga"
+    ],
+    "correct": "Akar"
+  },
+  {
+    "grade": 1,
+    "subject": "pkn",
+    "key": "k1-pkn-1",
+    "caption": "Simbol Perisai Lambang Garuda Pancasila",
+    "question": "Perhatikan gambar perisai di atas! Simbol Bintang emas berlatar belakang hitam melambangkan sila ke....",
+    "options": [
+      "Sila Pertama (Ketuhanan Yang Maha Esa)",
+      "Sila Kedua",
+      "Sila Ketiga",
+      "Sila Kelima"
+    ],
+    "correct": "Sila Pertama (Ketuhanan Yang Maha Esa)"
+  },
+  {
+    "grade": 1,
+    "subject": "pkn",
+    "key": "k1-pkn-2",
+    "caption": "Simbol Rantai Lambang Garuda Pancasila",
+    "question": "Perhatikan gambar rantai emas di atas! Simbol lingkaran dan persegi yang saling menyambung melambangkan sila ke....",
+    "options": [
+      "Sila Kedua (Kemanusiaan yang Adil dan Beradab)",
+      "Sila Pertama",
+      "Sila Ketiga",
+      "Sila Keempat"
+    ],
+    "correct": "Sila Kedua (Kemanusiaan yang Adil dan Beradab)"
+  },
+  {
+    "grade": 1,
+    "subject": "coding",
+    "key": "k1-coding-1",
+    "caption": "Petak Langkah Navigasi Robot Cilik",
+    "question": "Perhatikan labirin grid 3x3 di atas! Agar robot dapat mencapai bintang emas, langkah instruksi yang benar adalah....",
+    "options": [
+      "Maju 2 langkah (⬆️ ⬆️) lalu Belok Kanan 2 langkah (➡️ ➡️)",
+      "Maju 1 langkah lalu Belok Kiri 2 langkah",
+      "Mundur 2 langkah",
+      "Belok Kiri 3 langkah"
+    ],
+    "correct": "Maju 2 langkah (⬆️ ⬆️) lalu Belok Kanan 2 langkah (➡️ ➡️)"
+  },
+  {
+    "grade": 1,
+    "subject": "coding",
+    "key": "k1-coding-2",
+    "caption": "Barisan Pola Bangun Berurutan",
+    "question": "Perhatikan pola barisan bangun datar di atas: [Kotak Merah, Lingkaran Biru, Segitiga Hijau, Kotak Merah, Lingkaran Biru, ?]. Bangun yang tepat mengisi tanda tanya (?) adalah....",
+    "options": [
+      "Segitiga Hijau",
+      "Kotak Merah",
+      "Lingkaran Biru",
+      "Bintang"
+    ],
+    "correct": "Segitiga Hijau"
+  },
+  {
+    "grade": 1,
+    "subject": "inggris",
+    "key": "k1-inggris-1",
+    "caption": "Animal Illustration",
+    "question": "Look at the picture! What is the English name of this big, smart animal with a long trunk and big ears?",
+    "options": [
+      "Elephant",
+      "Lion",
+      "Giraffe",
+      "Monkey"
+    ],
+    "correct": "Elephant"
+  },
+  {
+    "grade": 1,
+    "subject": "inggris",
+    "key": "k1-inggris-2",
+    "caption": "Three Colorful Balloons",
+    "question": "Look at the balloons! What color is the middle balloon?",
+    "options": [
+      "Blue",
+      "Red",
+      "Yellow",
+      "Green"
+    ],
+    "correct": "Blue"
+  },
+  {
+    "grade": 1,
+    "subject": "sbdp",
+    "key": "k1-sbdp-1",
+    "caption": "Palet Tiga Warna Primer",
+    "question": "Perhatikan palet cat pada gambar! Tiga warna pokok (primer) yang tidak dapat dihasilkan dari campuran warna lain adalah....",
+    "options": [
+      "Merah, Kuning, dan Biru",
+      "Hijau, Jingga, dan Ungu",
+      "Hitam, Putih, dan Abu-abu",
+      "Cokelat, Emas, dan Perak"
+    ],
+    "correct": "Merah, Kuning, dan Biru"
+  },
+  {
+    "grade": 1,
+    "subject": "sbdp",
+    "key": "k1-sbdp-2",
+    "caption": "Karya Seni Kerajinan Kolase Alami",
+    "question": "Perhatikan gambar kerajinan kolase di atas! Bahan alam apa yang ditempelkan membentuk gambar bunga yang indah?",
+    "options": [
+      "Daun kering dan biji-bijian",
+      "Plastik bekas",
+      "Kaca patri",
+      "Besi kawat"
+    ],
+    "correct": "Daun kering dan biji-bijian"
+  },
+  {
+    "grade": 1,
+    "subject": "pjok",
+    "key": "k1-pjok-1",
+    "caption": "Ilustrasi Gerak Dasar Lokomotor Siswa",
+    "question": "Perhatikan gambar anak berolahraga di atas! Gerakan menolakkan kedua kaki ke atas lalu mendarat dengan lutut mengeper dinamakan....",
+    "options": [
+      "Melompat",
+      "Berbaring",
+      "Duduk bersila",
+      "Meliuk"
+    ],
+    "correct": "Melompat"
+  },
+  {
+    "grade": 1,
+    "subject": "pjok",
+    "key": "k1-pjok-2",
+    "caption": "Gambar Peralatan Cabang Olahraga",
+    "question": "Perhatikan gambar bola di atas! Bola dengan corak segi lima hitam putih ini digunakan dalam olahraga....",
+    "options": [
+      "Sepak bola",
+      "Basket",
+      "Kasti",
+      "Tenis meja"
+    ],
+    "correct": "Sepak bola"
+  },
+  {
+    "grade": 1,
+    "subject": "sunda",
+    "key": "k1-sunda-1",
+    "caption": "Panca Indra: Bagian Soca / Panon (Sunda)",
+    "question": "Titénan gambar panca indra di luhur! Organ soca atawa panon dina raray kagunaanna nyaéta pikeun....",
+    "options": [
+      "Ningali (melihat)",
+      "Ngadangu (mendengar)",
+      "Neda (makan)",
+      "Leumpang (berjalan)"
+    ],
+    "correct": "Ningali (melihat)"
+  },
+  {
+    "grade": 1,
+    "subject": "sunda",
+    "key": "k1-sunda-1",
+    "caption": "Tatakrama Basa Sunda Sopan Santun",
+    "question": "Nalika dipasihan kado atawa pitulung ku babaturan, urang Sunda anu sopan kedah ngucapkeun....",
+    "options": [
+      "Hatur nuhun",
+      "Punten",
+      "Sampurasun",
+      "Mangga"
+    ],
+    "correct": "Hatur nuhun"
+  },
+  {
+    "grade": 1,
+    "subject": "jawa",
+    "key": "k1-jawa-1",
+    "caption": "Tokoh Wayang Punakawan Semar (Jawa)",
+    "question": "Gatekna gambar tokoh wayang ing dhuwur! Tokoh Punakawan sesepuh sing awake bunder lemu lan wicaksana banget yaiku....",
+    "options": [
+      "Kyai Semar",
+      "Gareng",
+      "Petruk",
+      "Bagong"
+    ],
+    "correct": "Kyai Semar"
+  },
+  {
+    "grade": 1,
+    "subject": "jawa",
+    "key": "k1-jawa-1",
+    "caption": "Unggah-Ungguh Basa Jawa Trapsila",
+    "question": "Yen arep mlaku liwat ing sangarepe wong sing luwih sepuh, patrap lan ucapan sing bener miturut unggah-ungguh yaiku....",
+    "options": [
+      "Mungkuk karo ngucap \"Nyuwun sewu / Ndherek langkung\"",
+      "Mlayu banter",
+      "Mbengok seru",
+      "Meneng wae ora aruh-aruh"
+    ],
+    "correct": "Mungkuk karo ngucap \"Nyuwun sewu / Ndherek langkung\""
+  },
+  {
+    "grade": 2,
+    "subject": "matematika",
+    "key": "k2-mtk-1",
+    "caption": "Susunan Balok Nilai Tempat Bilangan",
+    "question": "Perhatikan susunan balok kubus pada gambar di atas! Ada 2 balok ratusan, 3 batang puluhan, dan 5 kubus satuan. Lambang bilangan yang terbentuk adalah....",
+    "options": [
+      "235",
+      "253",
+      "325",
+      "532"
+    ],
+    "correct": "235"
+  },
+  {
+    "grade": 2,
+    "subject": "matematika",
+    "key": "k2-mtk-2",
+    "caption": "Jarum Penunjuk Jam Dinding Analog",
+    "question": "Perhatikan jarum jam analog pada gambar di atas! Jarum pendek berada di antara angka 7 dan 8, sedangkan jarum panjang tepat di angka 6. Waktu tersebut menunjukkan pukul....",
+    "options": [
+      "07.30 (setengah delapan)",
+      "06.35",
+      "07.06",
+      "08.30"
+    ],
+    "correct": "07.30 (setengah delapan)"
+  },
+  {
+    "grade": 2,
+    "subject": "indonesia",
+    "key": "k2-indo-1",
+    "caption": "Ilustrasi Situasi Cerita Gambar",
+    "question": "Perhatikan tanda baca pada gambar di atas! Tanda baca melengkung bertitik (?) yang diletakkan di akhir kalimat untuk menanyakan sesuatu adalah....",
+    "options": [
+      "Tanda tanya (?)",
+      "Tanda seru (!)",
+      "Tanda titik (.)",
+      "Tanda koma (,)"
+    ],
+    "correct": "Tanda tanya (?)"
+  },
+  {
+    "grade": 2,
+    "subject": "indonesia",
+    "key": "k2-indo-2",
+    "caption": "Tanda Baca Titik dan Tanya pada Kalimat",
+    "question": "Perhatikan gambar fabel di atas! Hewan cerdik bertubuh kecil yang berhasil menyeberangi sungai dengan menghitung buaya adalah....",
+    "options": [
+      "Kancil",
+      "Harimau",
+      "Gajah",
+      "Kura-kura"
+    ],
+    "correct": "Kancil"
+  },
+  {
+    "grade": 2,
+    "subject": "ipas",
+    "key": "k2-ipas-1",
+    "caption": "Pengamatan Karakteristik Benda di Sekitar",
+    "question": "Perhatikan siklus hidup pada gambar di atas! Urutan tahapan daur hidup kupu-kupu yang benar adalah....",
+    "options": [
+      "Telur -> Ulat (Larva) -> Kepompong (Pupa) -> Kupu-kupu",
+      "Kupu-kupu -> Ulat -> Telur -> Kepompong",
+      "Kepompong -> Telur -> Ulat -> Kupu-kupu",
+      "Telur -> Kupu-kupu -> Ulat -> Kepompong"
+    ],
+    "correct": "Telur -> Ulat (Larva) -> Kepompong (Pupa) -> Kupu-kupu"
+  },
+  {
+    "grade": 2,
+    "subject": "ipas",
+    "key": "k2-ipas-2",
+    "caption": "Gambar Habitat Alam Makhluk Hidup",
+    "question": "Perhatikan ketiga wadah benda pada gambar! Es batu, air minum, dan uap air di dalam teko masing-masing berwujud....",
+    "options": [
+      "Padat, Cair, dan Gas",
+      "Cair, Gas, dan Padat",
+      "Gas, Padat, dan Cair",
+      "Semuanya padat"
+    ],
+    "correct": "Padat, Cair, dan Gas"
+  },
+  {
+    "grade": 2,
+    "subject": "pkn",
+    "key": "k2-pkn-1",
+    "caption": "Simbol Pohon Beringin Garuda Pancasila",
+    "question": "Perhatikan pohon besar rindang pada gambar perisai! Simbol Pohon Beringin melambangkan Pancasila sila ke....",
+    "options": [
+      "Sila Ketiga (Persatuan Indonesia)",
+      "Sila Pertama",
+      "Sila Kedua",
+      "Sila Keempat"
+    ],
+    "correct": "Sila Ketiga (Persatuan Indonesia)"
+  },
+  {
+    "grade": 2,
+    "subject": "pkn",
+    "key": "k2-pkn-2",
+    "caption": "Ilustrasi Kebersamaan dan Kerja Sama Siswa",
+    "question": "Perhatikan gambar kegiatan siswa di atas! Anak-anak bekerja sama menyapu dan membersihkan halaman sekolah. Sikap terpuji ini mencerminkan....",
+    "options": [
+      "Gotong royong dan peduli lingkungan",
+      "Sikap malas dan mengeluh",
+      "Tawuran antarkelas",
+      "Bermain sendiri-sendiri"
+    ],
+    "correct": "Gotong royong dan peduli lingkungan"
+  },
+  {
+    "grade": 2,
+    "subject": "coding",
+    "key": "k2-coding-1",
+    "caption": "Kartu Urutan Instruksi Algoritma Aktivitas",
+    "question": "Perhatikan 3 gambar tahapan di atas! Urutan algoritma langkah yang tepat untuk menanam tanaman bunga adalah....",
+    "options": [
+      "1. Gali lubang tanah -> 2. Masukkan biji -> 3. Siram air secukupnya",
+      "1. Siram air -> 2. Gali lubang -> 3. Petik daun",
+      "1. Masukkan biji -> 2. Tutup batu -> 3. Injak tanah",
+      "1. Potong akar -> 2. Jemur biji -> 3. Siram air"
+    ],
+    "correct": "1. Gali lubang tanah -> 2. Masukkan biji -> 3. Siram air secukupnya"
+  },
+  {
+    "grade": 2,
+    "subject": "coding",
+    "key": "k2-coding-2",
+    "caption": "Simbol Panah Arah Navigasi Digital",
+    "question": "Perhatikan bagan komputer di atas! Ketika kita menekan tombol keyboard (Input), komputer berpikir menghitung (Proses), maka tulisan akan muncul di layar monitor sebagai....",
+    "options": [
+      "Output (Keluaran)",
+      "Input baru",
+      "Kabel listrik",
+      "Mesin rusak"
+    ],
+    "correct": "Output (Keluaran)"
+  },
+  {
+    "grade": 2,
+    "subject": "inggris",
+    "key": "k2-inggris-1",
+    "caption": "Classroom Supplies Illustration",
+    "question": "Look at the family tree picture! The person at the top with gray hair and glasses who is the father of our parents is called....",
+    "options": [
+      "Grandfather",
+      "Father",
+      "Brother",
+      "Uncle"
+    ],
+    "correct": "Grandfather"
+  },
+  {
+    "grade": 2,
+    "subject": "inggris",
+    "key": "k2-inggris-2",
+    "caption": "Family Members Illustration",
+    "question": "Look at the picture! What dining tools do we hold with our right and left hand when eating noodles or rice?",
+    "options": [
+      "Spoon and Fork",
+      "Pencil and Ruler",
+      "Plate and Cup",
+      "Knife and Scissors"
+    ],
+    "correct": "Spoon and Fork"
+  },
+  {
+    "grade": 2,
+    "subject": "sbdp",
+    "key": "k2-sbdp-1",
+    "caption": "Bagan Simbol Ketukan Irama Musik",
+    "question": "Perhatikan alat musik bambu pada gambar di atas! Alat musik tradisional khas Jawa Barat yang dimainkan dengan cara digoyangkan adalah....",
+    "options": [
+      "Angklung",
+      "Gamelan",
+      "Sasando",
+      "Kolintang"
+    ],
+    "correct": "Angklung"
+  },
+  {
+    "grade": 2,
+    "subject": "sbdp",
+    "key": "k2-sbdp-2",
+    "caption": "Gambar Ragam Hias Motif Dekoratif Nusantara",
+    "question": "Perhatikan penari pada gambar di atas! Gerakan tangan merentangkan selendang menyerupai sayap burung yang indah terinspirasi dari tari....",
+    "options": [
+      "Tari Merak",
+      "Tari Piring",
+      "Tari Kecak",
+      "Tari Kuda Lumping"
+    ],
+    "correct": "Tari Merak"
+  },
+  {
+    "grade": 2,
+    "subject": "pjok",
+    "key": "k2-pjok-1",
+    "caption": "Ilustrasi Latihan Gerak Bertumpu dan Keseimbangan",
+    "question": "Perhatikan gambar anak berolahraga di atas! Berdiri bertumpu satu kaki dengan kedua tangan direntangkan ke samping menirukan gerakan....",
+    "options": [
+      "Sikap pesawat terbang untuk keseimbangan",
+      "Berlari cepat",
+      "Berguling ke depan",
+      "Berenang gaya dada"
+    ],
+    "correct": "Sikap pesawat terbang untuk keseimbangan"
+  },
+  {
+    "grade": 2,
+    "subject": "pjok",
+    "key": "k2-pjok-2",
+    "caption": "Gambar Gerakan Membungkuk Mencium Lutut",
+    "question": "Perhatikan gambar olahraga di atas! Olahraga lari beregu di mana pelari menyerahkan tongkat estafet kepada rekannya dinamakan lari....",
+    "options": [
+      "Lari estafet (sambung)",
+      "Lari maraton sendirian",
+      "Lari gawang",
+      "Jalan santai"
+    ],
+    "correct": "Lari estafet (sambung)"
+  },
+  {
+    "grade": 2,
+    "subject": "sunda",
+    "key": "k2-sunda-1",
+    "caption": "Waditra Musik Bambu: Angklung (Sunda)",
+    "question": "Titénan gambar waditra musik di luhur! Waditra Sunda anu dijieun tina awi sarta disadakeun ku cara dioyagkeun nyaéta....",
+    "options": [
+      "Angklung",
+      "Kacapi",
+      "Goong",
+      "Kendang"
+    ],
+    "correct": "Angklung"
+  },
+  {
+    "grade": 2,
+    "subject": "sunda",
+    "key": "k2-sunda-1",
+    "caption": "Kaulinan Tradisional Barudak Sunda",
+    "question": "Kaulinan barudak lembur Sunda bari nyekel taktak babaturan sarta ngaleut mapay jalan kawas oray nyaéta....",
+    "options": [
+      "Oray-orayan",
+      "Ucing sumput",
+      "Galah asin",
+      "Beklen"
+    ],
+    "correct": "Oray-orayan"
+  },
+  {
+    "grade": 2,
+    "subject": "jawa",
+    "key": "k2-jawa-1",
+    "caption": "Tembang Dolanan Gundhul Pacul (Jawa)",
+    "question": "Gatekna gambar bocah nyunggi wakul ing dhuwur! Tembang dolanan Jawa \"Gundhul-gundhul pacul cul, gembèlèngan...\" ngelingake wong supaya....",
+    "options": [
+      "Ora kena sombong lan sembrono nalika nampa amanah",
+      "Kudu seneng turu",
+      "Aja gelem sekolah",
+      "Mangan enak dhewe"
+    ],
+    "correct": "Ora kena sombong lan sembrono nalika nampa amanah"
+  },
+  {
+    "grade": 2,
+    "subject": "jawa",
+    "key": "k2-jawa-1",
+    "caption": "Kawruh Jeneng Anak Kewan Jawa",
+    "question": "Ing basa Jawa, saben anak kewan duwe jeneng dhewe-dhewe. Anake kucing diarani cemeng, dene anake pitik diarani....",
+    "options": [
+      "Kuthuk",
+      "Pedhet",
+      "Belo",
+      "Gogor"
+    ],
+    "correct": "Kuthuk"
+  },
+  {
+    "grade": 3,
+    "subject": "matematika",
+    "key": "k3-mtk-1",
+    "caption": "Bagan Pembagian Bagian Lingkaran Pizza",
+    "question": "Perhatikan gambar lingkaran pizza di atas! Satu loyang pizza dipotong menjadi 4 bagian sama besar. Satu bagian yang diarsir bernilai pecahan....",
+    "options": [
+      "1/4 (satu perempat)",
+      "1/2 (setengah)",
+      "3/4 (tiga perempat)",
+      "1/3 (sepertiga)"
+    ],
+    "correct": "1/4 (satu perempat)"
+  },
+  {
+    "grade": 3,
+    "subject": "matematika",
+    "key": "k3-mtk-2",
+    "caption": "Bagan Garis Bilangan Berpola Teratur",
+    "question": "Perhatikan garis bilangan di atas! Titik-titik melompat: 0 -> 3 -> 6 -> 9 -> ... . Bilangan berikutnya pada loncatan tersebut adalah....",
+    "options": [
+      "12",
+      "10",
+      "15",
+      "11"
+    ],
+    "correct": "12"
+  },
+  {
+    "grade": 3,
+    "subject": "indonesia",
+    "key": "k3-indo-1",
+    "caption": "Gambar Diagram Penunjuk Arah Mata Angin",
+    "question": "Perhatikan gambar kompas arah mata angin di atas! Arah yang menunjuk tegak lurus ke atas pada denah peta selalu menunjukkan arah....",
+    "options": [
+      "Utara",
+      "Selatan",
+      "Barat",
+      "Timur"
+    ],
+    "correct": "Utara"
+  },
+  {
+    "grade": 3,
+    "subject": "indonesia",
+    "key": "k3-indo-2",
+    "caption": "Format Bagan Struktur Surat Pribadi",
+    "question": "Perhatikan bagian surat di atas! Bagian yang tertulis \"Bandung, 10 Oktober 2026\" pada surat dinamakan bagian....",
+    "options": [
+      "Tempat dan tanggal pembuatan surat",
+      "Salam pembuka",
+      "Isi surat",
+      "Tanda tangan pengirim"
+    ],
+    "correct": "Tempat dan tanggal pembuatan surat"
+  },
+  {
+    "grade": 3,
+    "subject": "ipas",
+    "key": "k3-ipas-1",
+    "caption": "Diagram Alur Daur Siklus Air di Bumi",
+    "question": "Perhatikan gambar daur air di atas! Tahapan ketika uap air dari laut dan danau membubung ke atas udara karena sinar matahari dinamakan....",
+    "options": [
+      "Evaporasi (Penguapan)",
+      "Kondensasi (Pengembunan)",
+      "Presipitasi (Hujan)",
+      "Infiltrasi (Penyerapan)"
+    ],
+    "correct": "Evaporasi (Penguapan)"
+  },
+  {
+    "grade": 3,
+    "subject": "ipas",
+    "key": "k3-ipas-2",
+    "caption": "Bagan Jaring Rantai Makanan Ekosistem",
+    "question": "Perhatikan rantai makanan di atas! Makhluk hidup yang berperan sebagai produsen penghasil makanan bagi belalang adalah....",
+    "options": [
+      "Tanaman Padi",
+      "Katak sawah",
+      "Ular",
+      "Burung elang"
+    ],
+    "correct": "Tanaman Padi"
+  },
+  {
+    "grade": 3,
+    "subject": "pkn",
+    "key": "k3-pkn-1",
+    "caption": "Simbol Kepala Banteng Garuda Pancasila",
+    "question": "Perhatikan gambar simbol perisai di atas! Simbol Kepala Banteng berlatar merah melambangkan sila ke....",
+    "options": [
+      "Sila Keempat (Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan...)",
+      "Sila Ketiga",
+      "Sila Pertama",
+      "Sila Kelima"
+    ],
+    "correct": "Sila Keempat (Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan...)"
+  },
+  {
+    "grade": 3,
+    "subject": "pkn",
+    "key": "k3-pkn-2",
+    "caption": "Ilustrasi Pakaian Adat Nusantara",
+    "question": "Perhatikan gambar anak mengenakan busana adat di atas! Keragaman pakaian adat Nusantara mencerminkan semboyan negara kita yaitu....",
+    "options": [
+      "Bhinneka Tunggal Ika (Berbeda-beda tetapi tetap satu jua)",
+      "Tut Wuri Handayani",
+      "Ing Ngarso Sung Tulodho",
+      "Pancasila Sakti"
+    ],
+    "correct": "Bhinneka Tunggal Ika (Berbeda-beda tetapi tetap satu jua)"
+  },
+  {
+    "grade": 3,
+    "subject": "coding",
+    "key": "k3-coding-1",
+    "caption": "Blok Kode Perulangan (Looping) Pemrograman",
+    "question": "Perhatikan blok kode di atas: [Ulangi 4 Kali: Maju 10 Langkah, Belok Kanan 90 Derajat]. Bentuk bangun datar yang akan digambar oleh karakter sprite adalah....",
+    "options": [
+      "Persegi (bujursangkar)",
+      "Lingkaran",
+      "Segitiga",
+      "Garis lurus"
+    ],
+    "correct": "Persegi (bujursangkar)"
+  },
+  {
+    "grade": 3,
+    "subject": "coding",
+    "key": "k3-coding-2",
+    "caption": "Diagram Logika Kondisi dan Keputusan",
+    "question": "Perhatikan diagram alir logika di atas: [Jika Hari Hujan -> Bawa Payung, Jika Tidak -> Pakai Topi]. Jika di luar cuaca sangat terik cerah tanpa awan hujan, maka aksi yang dilakukan adalah....",
+    "options": [
+      "Pakai Topi",
+      "Bawa Payung hujan",
+      "Tidur di rumah",
+      "Pakai jas hujan tebal"
+    ],
+    "correct": "Pakai Topi"
+  },
+  {
+    "grade": 3,
+    "subject": "inggris",
+    "key": "k3-inggris-1",
+    "caption": "Weather and Climate Symbols",
+    "question": "Look at the weather symbols! What is the weather condition shown by the bright shining sun without clouds?",
+    "options": [
+      "Sunny",
+      "Rainy",
+      "Stormy",
+      "Snowy"
+    ],
+    "correct": "Sunny"
+  },
+  {
+    "grade": 3,
+    "subject": "inggris",
+    "key": "k3-inggris-2",
+    "caption": "Traffic and Road Safety Signs",
+    "question": "Look at the red circular traffic sign with a white line inside! What does this sign mean for drivers?",
+    "options": [
+      "Do not enter (No Entry)",
+      "Turn right",
+      "Parking allowed",
+      "Speed up"
+    ],
+    "correct": "Do not enter (No Entry)"
+  },
+  {
+    "grade": 3,
+    "subject": "sbdp",
+    "key": "k3-sbdp-1",
+    "caption": "Bagan Tangga Nada Diatonis Standar",
+    "question": "Perhatikan notasi balok dan angka pada gambar di atas: [1 - 2 - 3 - 4 - 5 - 6 - 7 - 1]. Nada nomor 1 dan 5 masing-masing dibaca....",
+    "options": [
+      "Do dan Sol",
+      "Re dan Fa",
+      "Mi dan La",
+      "Do dan Si"
+    ],
+    "correct": "Do dan Sol"
+  },
+  {
+    "grade": 3,
+    "subject": "sbdp",
+    "key": "k3-sbdp-2",
+    "caption": "Gambar Motif Seni Batik Tradisional",
+    "question": "Perhatikan kain motif tradisional di atas! Motif garis-garis miring berombak menyerupai ombak karang laut ini dinamakan motif batik....",
+    "options": [
+      "Batik Parang",
+      "Batik Kawung",
+      "Batik Megamendung",
+      "Batik Lasem"
+    ],
+    "correct": "Batik Parang"
+  },
+  {
+    "grade": 3,
+    "subject": "pjok",
+    "key": "k3-pjok-1",
+    "caption": "Ilustrasi Gerakan Renang Siswa",
+    "question": "Perhatikan gambar perenang di atas! Gerakan kedua kaki ditekuk lalu menendang melingkar ke samping menyerupai gerakan hewan....",
+    "options": [
+      "Katak (katak berenang)",
+      "Ikan hiu",
+      "Burung elang",
+      "Lumba-lumba"
+    ],
+    "correct": "Katak (katak berenang)"
+  },
+  {
+    "grade": 3,
+    "subject": "pjok",
+    "key": "k3-pjok-2",
+    "caption": "Ilustrasi Senam Ketangkasan Peti Lompat",
+    "question": "Perhatikan gambar anak melompati rintangan peti di atas! Olahraga melompati peti lompat dengan kedua kaki kangkang melatih....",
+    "options": [
+      "Kelenturan dan keberanian melompat",
+      "Kekuatan gigi",
+      "Daya tahan tidur",
+      "Kecepatan mengetik"
+    ],
+    "correct": "Kelenturan dan keberanian melompat"
+  },
+  {
+    "grade": 3,
+    "subject": "sunda",
+    "key": "k3-sunda-1",
+    "caption": "Pakakas Dapur Anyaman Awi: Boboko (Sunda)",
+    "question": "Titénan gambar pakakas anyaman awi di luhur! Pakakas dapur Sunda anu dianyam tina awi pikeun wadah sangu nyaéta....",
+    "options": [
+      "Boboko",
+      "Aseupan",
+      "Hihid",
+      "Dulag"
+    ],
+    "correct": "Boboko"
+  },
+  {
+    "grade": 3,
+    "subject": "sunda",
+    "key": "k3-sunda-1",
+    "caption": "Carita Rahayat & Sasakala Sunda",
+    "question": "Dongéng sasakala Sunda anu kasohor di Jawa Barat ngeunaan Sangkuriang jeung Dayang Sumbi nyaritakeun asal-usul ayana....",
+    "options": [
+      "Gunung Tangkuban Parahu",
+      "Situ Bagendit",
+      "Kawah Putih",
+      "Gunung Galunggung"
+    ],
+    "correct": "Gunung Tangkuban Parahu"
+  },
+  {
+    "grade": 3,
+    "subject": "jawa",
+    "key": "k3-jawa-1",
+    "caption": "Aksara Jawa Dentawyanjana: Ha Na Ca Ra Ka (Jawa)",
+    "question": "Gatekna gambar aksara Jawa ing dhuwur! Lima aksara Jawa ing baris kapisan kang unine \"Ha, Na, Ca, Ra, Ka\" diarani aksara....",
+    "options": [
+      "Dentawyanjana (Carakan)",
+      "Sandhangan",
+      "Pasangan",
+      "Swara Murda"
+    ],
+    "correct": "Dentawyanjana (Carakan)"
+  },
+  {
+    "grade": 3,
+    "subject": "jawa",
+    "key": "k3-jawa-2",
+    "caption": "Omah Adat Tradisional Jawa: Joglo (Jawa)",
+    "question": "Gatekna gambar omah adat ing dhuwur! Omah adat tradisional Jawa sing nduweni payon dhuwur tumpang sari lan pendhapa jembar diarani omah....",
+    "options": [
+      "Joglo",
+      "Gadang",
+      "Tongkonan",
+      "Honai"
+    ],
+    "correct": "Joglo"
+  },
+  {
+    "grade": 4,
+    "subject": "matematika",
+    "key": "k4-mtk-1",
+    "caption": "Pengukuran Besar Sudut dengan Busur Derajat",
+    "question": "Perhatikan gambar busur derajat di atas! Sudut tegak lurus yang terbentuk dari dua garis yang saling berpotongan tegak lurus memiliki besar sudut....",
+    "options": [
+      "90° (sudut siku-siku)",
+      "45° (sudut lancip)",
+      "180° (sudut lurus)",
+      "120° (sudut tumpul)"
+    ],
+    "correct": "90° (sudut siku-siku)"
+  },
+  {
+    "grade": 4,
+    "subject": "matematika",
+    "key": "k4-mtk-2",
+    "caption": "Gambar Bangun Persegi Panjang Berukuran",
+    "question": "Perhatikan gambar persegi panjang di atas! Jika ukuran panjang = 8 cm dan lebar = 5 cm, maka luas bangun datar tersebut adalah....",
+    "options": [
+      "40 cm²",
+      "26 cm²",
+      "13 cm²",
+      "80 cm²"
+    ],
+    "correct": "40 cm²"
+  },
+  {
+    "grade": 4,
+    "subject": "indonesia",
+    "key": "k4-indo-1",
+    "caption": "Bagan Skema Susunan Paragraf Teks",
+    "question": "Perhatikan bagan struktur paragraf di atas! Paragraf yang meletakkan ide pokok / kalimat utamanya di awal paragraf dinamakan paragraf....",
+    "options": [
+      "Deduktif",
+      "Induktif",
+      "Campuran",
+      "Naratif"
+    ],
+    "correct": "Deduktif"
+  },
+  {
+    "grade": 4,
+    "subject": "indonesia",
+    "key": "k4-indo-2",
+    "caption": "Ilustrasi Kegiatan Wawancara Jurnalistik",
+    "question": "Perhatikan gambar kegiatan wawancara di atas! Orang yang bertugas mengajukan pertanyaan mencari informasi dari narasumber dinamakan....",
+    "options": [
+      "Pewawancara",
+      "Narasumber",
+      "Penonton",
+      "Penyunting"
+    ],
+    "correct": "Pewawancara"
+  },
+  {
+    "grade": 4,
+    "subject": "ipas",
+    "key": "k4-ipas-1",
+    "caption": "Skema Proses Pembuatan Makanan pada Daun Tumbuhan",
+    "question": "Perhatikan bagan fotosintesis di atas! Tumbuhan hijau mengolah air dan karbon dioksida dengan bantuan sinar matahari untuk menghasilkan zat makanan dan gas....",
+    "options": [
+      "Oksigen (O₂)",
+      "Karbon monoksida",
+      "Gas elpiji",
+      "Nitrogen cair"
+    ],
+    "correct": "Oksigen (O₂)"
+  },
+  {
+    "grade": 4,
+    "subject": "ipas",
+    "key": "k4-ipas-2",
+    "caption": "Bagan Prinsip Kerja Pembangkit Listrik Turbin Air",
+    "question": "Perhatikan gambar kincir air di atas! Perubahan bentuk energi yang terjadi ketika aliran deras air sungai memutar turbin kincir adalah....",
+    "options": [
+      "Energi gerak (kinetik) menjadi energi listrik",
+      "Energi kimia menjadi energi panas",
+      "Energi bunyi menjadi cahaya",
+      "Energi nuklir menjadi angin"
+    ],
+    "correct": "Energi gerak (kinetik) menjadi energi listrik"
+  },
+  {
+    "grade": 4,
+    "subject": "pkn",
+    "key": "k4-pkn-1",
+    "caption": "Simbol Padi dan Kapas Garuda Pancasila",
+    "question": "Perhatikan gambar tanaman di perisai Garuda! Simbol Padi dan Kapas melambangkan cita-cita bangsa Indonesia dalam memenuhi kebutuhan pokok sandang dan pangan pada sila ke....",
+    "options": [
+      "Sila Kelima (Keadilan Sosial bagi Seluruh Rakyat Indonesia)",
+      "Sila Kedua",
+      "Sila Ketiga",
+      "Sila Pertama"
+    ],
+    "correct": "Sila Kelima (Keadilan Sosial bagi Seluruh Rakyat Indonesia)"
+  },
+  {
+    "grade": 4,
+    "subject": "pkn",
+    "key": "k4-pkn-2",
+    "caption": "Bagan Struktur Lembaga Pemerintahan Tingkat Desa",
+    "question": "Perhatikan bagan pemerintahan desa di atas! Pemimpin tertinggi di lingkungan kantor desa yang dipilih langsung oleh masyarakat warga desa adalah....",
+    "options": [
+      "Kepala Desa (Lurah)",
+      "Camat",
+      "Bupati",
+      "Ketua RT"
+    ],
+    "correct": "Kepala Desa (Lurah)"
+  },
+  {
+    "grade": 4,
+    "subject": "coding",
+    "key": "k4-coding-1",
+    "caption": "Tiga Bentuk Simbol Baku Diagram Alir (Flowchart)",
+    "question": "Perhatikan simbol diagram alir di atas! Simbol berbentuk belah ketupat (diamond) pada flowchart berfungsi untuk menunjukkan....",
+    "options": [
+      "Keputusan / Percabangan Logika (Ya atau Tidak)",
+      "Awal dan Akhir program",
+      "Proses perhitungan",
+      "Penyimpanan file"
+    ],
+    "correct": "Keputusan / Percabangan Logika (Ya atau Tidak)"
+  },
+  {
+    "grade": 4,
+    "subject": "coding",
+    "key": "k4-coding-2",
+    "caption": "Tata Letak Antarmuka Pemrograman Visual Scratch",
+    "question": "Perhatikan antarmuka Scratch di atas! Area panggung tempat karakter kucing sprite bergerak dan beraksi memainkan animasi dinamakan....",
+    "options": [
+      "Stage (Panggung)",
+      "Block Palette",
+      "Script Area",
+      "Backpack"
+    ],
+    "correct": "Stage (Panggung)"
+  },
+  {
+    "grade": 4,
+    "subject": "inggris",
+    "key": "k4-inggris-1",
+    "caption": "Analog Wall Clock Time Display",
+    "question": "Look at the clock picture! The short hand is just past 3 and the long hand is pointing at 3 (15 minutes). What time is it in English?",
+    "options": [
+      "It is a quarter past three (03.15)",
+      "It is half past three",
+      "It is three o'clock",
+      "It is a quarter to three"
+    ],
+    "correct": "It is a quarter past three (03.15)"
+  },
+  {
+    "grade": 4,
+    "subject": "inggris",
+    "key": "k4-inggris-2",
+    "caption": "Animals Comparison Illustration",
+    "question": "Look at the animals in the picture! The giraffe with its very long neck compared to the elephant is....",
+    "options": [
+      "Taller than the elephant",
+      "Shorter than the elephant",
+      "Smaller than the mouse",
+      "Heavier than the whale"
+    ],
+    "correct": "Taller than the elephant"
+  },
+  {
+    "grade": 4,
+    "subject": "sbdp",
+    "key": "k4-sbdp-1",
+    "caption": "Kerajinan Tangan Motif Anyaman Bambu Tradisional",
+    "question": "Perhatikan gambar anyaman bambu di atas! Pola selang-seling saling silang tegak lurus antara bilah pakan dan lungsin dinamakan anyaman motif....",
+    "options": [
+      "Anyaman Sasak (Tunggal)",
+      "Anyaman Ganda",
+      "Anyaman Cengkeh",
+      "Anyaman Pita"
+    ],
+    "correct": "Anyaman Sasak (Tunggal)"
+  },
+  {
+    "grade": 4,
+    "subject": "sbdp",
+    "key": "k4-sbdp-2",
+    "caption": "Teknik Gambar Seni Rupa Perspektif Ruang",
+    "question": "Perhatikan gambar rel kereta api di atas! Rel kereta api dan tiang listrik tampak semakin menyempit dan menyatu di satu titik di kejauhan. Teknik menggambar ini dinamakan gambar....",
+    "options": [
+      "Perspektif satu titik hilang",
+      "Kolase kertas",
+      "Montase foto",
+      "Lukisan abstrak"
+    ],
+    "correct": "Perspektif satu titik hilang"
+  },
+  {
+    "grade": 4,
+    "subject": "pjok",
+    "key": "k4-pjok-1",
+    "caption": "Ilustrasi Gerakan Operan Bola Basket Siswa",
+    "question": "Perhatikan gambar teknik basket di atas! Lemparan lurus mendatar setinggi dada dengan mendorong bola menggunakan kedua tangan dinamakan....",
+    "options": [
+      "Chest pass",
+      "Bounce pass (pantul)",
+      "Overhead pass",
+      "Dribbling"
+    ],
+    "correct": "Chest pass"
+  },
+  {
+    "grade": 4,
+    "subject": "pjok",
+    "key": "k4-pjok-2",
+    "caption": "Ilustrasi Pukulan Awal Permainan Bola Voli",
+    "question": "Perhatikan gambar gerakan voli di atas! Memukul bola dengan telapak tangan mengepal dari bawah pinggang untuk memulai reli pertandingan disebut....",
+    "options": [
+      "Servis bawah",
+      "Servis atas",
+      "Smash tajam",
+      "Passing atas"
+    ],
+    "correct": "Servis bawah"
+  },
+  {
+    "grade": 4,
+    "subject": "sunda",
+    "key": "k4-sunda-1",
+    "caption": "Bagan Aksara Sunda Baku Ngalagena (Sunda)",
+    "question": "Titénan gambar aksara Sunda baku di luhur! Lambang aksara konsonan dasar saperti Ka, Ga, Nga, Da, Na dina aksara Sunda disebut aksara....",
+    "options": [
+      "Ngalagena",
+      "Swara",
+      "Rarangkén",
+      "Wilangan"
+    ],
+    "correct": "Ngalagena"
+  },
+  {
+    "grade": 4,
+    "subject": "sunda",
+    "key": "k4-sunda-1",
+    "caption": "Rarangkén Vokal Aksara Sunda",
+    "question": "Dina aksara Sunda baku, rarangkén anu perenahna di luhureun aksara pikeun ngarobah sora /a/ jadi /i/ disebut....",
+    "options": [
+      "Panghulu",
+      "Panyuku",
+      "Paneleng",
+      "Pamepet"
+    ],
+    "correct": "Panghulu"
+  },
+  {
+    "grade": 4,
+    "subject": "jawa",
+    "key": "k4-jawa-1",
+    "caption": "Sandhangan Swara Aksara Jawa (Jawa)",
+    "question": "Gatekna gambar sandhangan aksara Jawa ing dhuwur! Sandhangan swara wujud garis lengkung ing ngisor aksara sing ngowahi swara dadi /u/ diarani....",
+    "options": [
+      "Suku",
+      "Wulu (swara i)",
+      "Taling (swara e)",
+      "Pepet"
+    ],
+    "correct": "Suku"
+  },
+  {
+    "grade": 4,
+    "subject": "jawa",
+    "key": "k4-jawa-1",
+    "caption": "Sandhangan Panyigeg Wanda Aksara Jawa",
+    "question": "Sandhangan panyigeg wanda arupa garis miring loro ing dhuwur aksara kanggo mateni swara konsonan /r/ diarani....",
+    "options": [
+      "Layar",
+      "Wignyan",
+      "Cecak",
+      "Pangkon"
+    ],
+    "correct": "Layar"
+  },
+  {
+    "grade": 5,
+    "subject": "matematika",
+    "key": "k5-mtk-1",
+    "caption": "Bagan Jaring-Jaring Bidang Datar Bangun Ruang",
+    "question": "Perhatikan pola 6 buah bujursangkar kongruen pada gambar di atas! Pola jaring-jaring bentuk T tersebut jika dilipat menurut rusuknya akan membentuk bangun ruang....",
+    "options": [
+      "Kubus",
+      "Balok",
+      "Prisma segitiga",
+      "Limas segi empat"
+    ],
+    "correct": "Kubus"
+  },
+  {
+    "grade": 5,
+    "subject": "matematika",
+    "key": "k5-mtk-2",
+    "caption": "Diagram Batang Data Statistik Lima Tahun",
+    "question": "Perhatikan diagram batang hasil panen padi desa pada gambar di atas! Tahun berapakah yang menghasilkan panen padi tertinggi mencapai 50 ton?",
+    "options": [
+      "Tahun 2025",
+      "Tahun 2022",
+      "Tahun 2023",
+      "Tahun 2021"
+    ],
+    "correct": "Tahun 2025"
+  },
+  {
+    "grade": 5,
+    "subject": "indonesia",
+    "key": "k5-indo-1",
+    "caption": "Poster Media Iklan Informasi Masyarakat",
+    "question": "Perhatikan poster iklan layanan masyarakat di atas! Pesan moral utama yang disampaikan poster bertema \"Matikan Lampu Saat Tidak Dipakai\" adalah....",
+    "options": [
+      "Menghemat energi listrik demi kelestarian bumi",
+      "Menghabiskan listrik sebanyak-banyaknya",
+      "Membeli banyak lampu baru",
+      "Memadamkan listrik seluruh kota"
+    ],
+    "correct": "Menghemat energi listrik demi kelestarian bumi"
+  },
+  {
+    "grade": 5,
+    "subject": "indonesia",
+    "key": "k5-indo-2",
+    "caption": "Struktur Rima dan Baris Teks Puisi Lama Pantun",
+    "question": "Perhatikan pantun 4 baris pada gambar di atas! Baris 1-2 disebut sampiran dan baris 3-4 disebut isi. Rima persajakan akhir yang tepat pada pantun adalah....",
+    "options": [
+      "a - b - a - b",
+      "a - a - a - a",
+      "a - a - b - b",
+      "a - b - c - d"
+    ],
+    "correct": "a - b - a - b"
+  },
+  {
+    "grade": 5,
+    "subject": "ipas",
+    "key": "k5-ipas-1",
+    "caption": "Bagan Saluran Sistem Pencernaan Makanan Manusia",
+    "question": "Perhatikan bagan sistem pencernaan manusia di atas! Urutan jalannya makanan yang benar di dalam tubuh manusia adalah....",
+    "options": [
+      "Mulut -> Kerongkongan -> Lambung -> Usus Halus -> Usus Besar",
+      "Mulut -> Lambung -> Kerongkongan -> Usus",
+      "Mulut -> Usus Besar -> Lambung -> Kerongkongan",
+      "Kerongkongan -> Mulut -> Usus -> Lambung"
+    ],
+    "correct": "Mulut -> Kerongkongan -> Lambung -> Usus Halus -> Usus Besar"
+  },
+  {
+    "grade": 5,
+    "subject": "ipas",
+    "key": "k5-ipas-2",
+    "caption": "Skema Perbandingan Dua Model Rangkaian Listrik",
+    "question": "Perhatikan kedua gambar rangkaian listrik di atas! Rangkaian lampu yang disusun bercabang sehingga jika satu lampu mati lampu lainnya tetap menyala adalah....",
+    "options": [
+      "Rangkaian Paralel",
+      "Rangkaian Seri",
+      "Rangkaian Terbuka",
+      "Rangkaian Konsleting"
+    ],
+    "correct": "Rangkaian Paralel"
+  },
+  {
+    "grade": 5,
+    "subject": "pkn",
+    "key": "k5-pkn-1",
+    "caption": "Peta Wilayah Kedaulatan Kepulauan Indonesia",
+    "question": "Perhatikan peta kepulauan Indonesia pada gambar di atas! Wilayah kepulauan Nusantara yang terbentang dari Sabang di ujung barat hingga Merauke di ujung timur dipersatukan dalam wadah....",
+    "options": [
+      "Negara Kesatuan Republik Indonesia (NKRI)",
+      "Serikat Bangsa Asing",
+      "Wilayah Daerah Khusus",
+      "Negara Bagian"
+    ],
+    "correct": "Negara Kesatuan Republik Indonesia (NKRI)"
+  },
+  {
+    "grade": 5,
+    "subject": "pkn",
+    "key": "k5-pkn-2",
+    "caption": "Ilustrasi Keseimbangan Hak dan Kewajiban Warga",
+    "question": "Perhatikan timbangan hak dan kewajiban pada gambar di atas! Agar tercipta keadilan dan ketertiban hidup bermasyarakat, pelaksanaan hak dan kewajiban harus....",
+    "options": [
+      "Seimbang dan selaras",
+      "Mengutamakan hak saja tanpa mau kerja",
+      "Hanya menuntut kewajiban orang lain",
+      "Berat sebelah"
+    ],
+    "correct": "Seimbang dan selaras"
+  },
+  {
+    "grade": 5,
+    "subject": "coding",
+    "key": "k5-coding-1",
+    "caption": "Blok Kode Nilai Variabel Skor Pemrograman",
+    "question": "Perhatikan blok kode game di atas: [Ketika Koin Disentuh -> Ubah Skor sebesar +10]. Nilai \"Skor\" yang dapat bertambah dan berubah nilainya selama permainan berlangsung dinamakan....",
+    "options": [
+      "Variabel (Penyimpan Nilai)",
+      "Konstanta tetap",
+      "Backdrop mati",
+      "Tombol pause"
+    ],
+    "correct": "Variabel (Penyimpan Nilai)"
+  },
+  {
+    "grade": 5,
+    "subject": "coding",
+    "key": "k5-coding-2",
+    "caption": "Komponen Mobil Robotik Cerdas Sensor Gelombang",
+    "question": "Perhatikan gambar mobil robot di atas! Sensor berbentuk dua mata silinder yang memancarkan gelombang suara untuk mendeteksi jarak dinding halangan dinamakan sensor....",
+    "options": [
+      "Sensor Ultrasonik (Jarak)",
+      "Sensor Suhu",
+      "Sensor Sentuh Bumper",
+      "Sensor Warna"
+    ],
+    "correct": "Sensor Ultrasonik (Jarak)"
+  },
+  {
+    "grade": 5,
+    "subject": "inggris",
+    "key": "k5-inggris-1",
+    "caption": "Grammar Time Line Chart",
+    "question": "Look at the timeline picture! If today is Friday (Present), the events that happened on Thursday (yesterday) are written using which tense?",
+    "options": [
+      "Simple Past Tense (Verb 2)",
+      "Simple Present Tense",
+      "Future Tense (Will)",
+      "Present Continuous"
+    ],
+    "correct": "Simple Past Tense (Verb 2)"
+  },
+  {
+    "grade": 5,
+    "subject": "inggris",
+    "key": "k5-inggris-2",
+    "caption": "Procedure Recipe Text Structure Layout",
+    "question": "Look at the fruit salad recipe illustration! Words such as \"First, Second, Next, Finally\" in a procedure text are called....",
+    "options": [
+      "Sequence words (Connectives of time)",
+      "Noun phrases",
+      "Past verbs",
+      "Negative words"
+    ],
+    "correct": "Sequence words (Connectives of time)"
+  },
+  {
+    "grade": 5,
+    "subject": "sbdp",
+    "key": "k5-sbdp-1",
+    "caption": "Ilustrasi Pertunjukan Tari Adat Daerah Tradisional",
+    "question": "Perhatikan penari pada gambar di atas! Tarian tradisional khas Minangkabau Sumatera Barat yang ditarikan lincah dengan memegang dua buah piring porselen di telapak tangan adalah....",
+    "options": [
+      "Tari Piring",
+      "Tari Saman",
+      "Tari Jaipong",
+      "Tari Tor-tor"
+    ],
+    "correct": "Tari Piring"
+  },
+  {
+    "grade": 5,
+    "subject": "sbdp",
+    "key": "k5-sbdp-2",
+    "caption": "Karya Seni Rupa Tiga Dimensi Bentuk Figur",
+    "question": "Perhatikan karya seni tiga dimensi pada gambar di atas! Karya seni yang memiliki volume panjang, lebar, dan tinggi serta dapat dinikmati dari segala arah dinamakan seni....",
+    "options": [
+      "Seni Patung 3 Dimensi",
+      "Lukisan kanvas datar",
+      "Batik tulis",
+      "Foto cetak"
+    ],
+    "correct": "Seni Patung 3 Dimensi"
+  },
+  {
+    "grade": 5,
+    "subject": "pjok",
+    "key": "k5-pjok-1",
+    "caption": "Denah Lapangan Olahraga Permainan Bola Kecil",
+    "question": "Perhatikan gambar lapangan di atas! Lapangan permainan kasti atau rounders dengan 5 tiang hinggap berbentuk bangun datar....",
+    "options": [
+      "Segi lima beraturan",
+      "Segitiga siku-siku",
+      "Lingkaran penuh",
+      "Persegi panjang"
+    ],
+    "correct": "Segi lima beraturan"
+  },
+  {
+    "grade": 5,
+    "subject": "pjok",
+    "key": "k5-pjok-2",
+    "caption": "Posisi Atlet Menjelang Start Lari Cepat (Sprint)",
+    "question": "Perhatikan gambar aba-aba lari cepat di atas! Posisi atlet saat mendengar aba-aba \"Siap!\" adalah....",
+    "options": [
+      "Pinggul diangkat lebih tinggi dari bahu dengan lutut terangkat",
+      "Berdiri santai",
+      "Mulai berlari kencang",
+      "Duduk selonjor di lintasan"
+    ],
+    "correct": "Pinggul diangkat lebih tinggi dari bahu dengan lutut terangkat"
+  },
+  {
+    "grade": 5,
+    "subject": "sunda",
+    "key": "k5-sunda-1",
+    "caption": "Struktur Baris Sisindiran Sunda (Sunda)",
+    "question": "Titénan bagan struktur sisindiran Sunda dina gambar! Dina wangun sisindiran rarakitan, padalisan 1 jeung 2 disebut cangkang, sedengkeun padalisan 3 jeung 4 nyaéta....",
+    "options": [
+      "Eusi (pesen inti piwuruk)",
+      "Paparikan",
+      "Wawangsalan",
+      "Padalisan"
+    ],
+    "correct": "Eusi (pesen inti piwuruk)"
+  },
+  {
+    "grade": 5,
+    "subject": "sunda",
+    "key": "k5-sunda-1",
+    "caption": "Sastra Tembang Pupuh Sunda",
+    "question": "Pupuh dina sastra Sunda miboga watak sewang-sewangan. Pupuh Kinanti ngagambarkeun rasa....",
+    "options": [
+      "Kanyaah, ngadagoan, atawa prihatin",
+      "Ambek jeung napsu",
+      "Heureuy jeung gumbira",
+      "Sedih jeung nalangsa"
+    ],
+    "correct": "Kanyaah, ngadagoan, atawa prihatin"
+  },
+  {
+    "grade": 5,
+    "subject": "jawa",
+    "key": "k5-jawa-1",
+    "caption": "Satria Pandhawa: Raden Werkudara (Jawa)",
+    "question": "Gatekna tokoh wayang Pandhawa Lima ing gambar dhuwur! Satria panenggak Pandhawa sing gagah pideksa, nduweni Kuku Pancanaka, lan satria ing Jodhipati yaiku....",
+    "options": [
+      "Raden Werkudara (Bima)",
+      "Raden Janaka (Arjuna)",
+      "Prabu Puntadewa",
+      "Raden Nakula"
+    ],
+    "correct": "Raden Werkudara (Bima)"
+  },
+  {
+    "grade": 5,
+    "subject": "jawa",
+    "key": "k5-jawa-1",
+    "caption": "Paugeran Tembang Macapat Pocung",
+    "question": "Tembang Macapat Pocung nduweni guru gatra (cacahing baris saben sapada) ana....",
+    "options": [
+      "4 gatra",
+      "5 gatra",
+      "6 gatra",
+      "7 gatra"
+    ],
+    "correct": "4 gatra"
+  },
+  {
+    "grade": 6,
+    "subject": "matematika",
+    "key": "k6-mtk-1",
+    "caption": "Bagan Garis Bagian-Bagian Geometri Lingkaran",
+    "question": "Perhatikan bagian-bagian lingkaran pada gambar di atas! Garis lurus hijau (r) yang menghubungkan titik pusat lingkaran (O) dengan titik pada keliling lingkaran dinamakan....",
+    "options": [
+      "Jari-jari lingkaran (r)",
+      "Diameter lingkaran (d)",
+      "Tali busur",
+      "Apotema"
+    ],
+    "correct": "Jari-jari lingkaran (r)"
+  },
+  {
+    "grade": 6,
+    "subject": "matematika",
+    "key": "k6-mtk-2",
+    "caption": "Diagram Lingkaran Persentase Minat Kegiatan Siswa",
+    "question": "Perhatikan diagram lingkaran hobi siswa di atas! Jika 50% siswa menyukai Sepak Bola, 25% Menyanyi, dan sisanya 25% Membaca, olahraga manakah yang paling banyak digemari?",
+    "options": [
+      "Sepak Bola (setengah lingkaran 50%)",
+      "Menyanyi",
+      "Membaca",
+      "Berenang"
+    ],
+    "correct": "Sepak Bola (setengah lingkaran 50%)"
+  },
+  {
+    "grade": 6,
+    "subject": "indonesia",
+    "key": "k6-indo-1",
+    "caption": "Bagan Susunan Tiga Bagian Pokok Teks Pidato",
+    "question": "Perhatikan bagan struktur pidato persuasif di atas! Bagian yang memuat salam pembuka, ucapan syukur kepada Tuhan, dan penghormatan kepada hadirin dinamakan....",
+    "options": [
+      "Pembukaan pidato (Purwaka)",
+      "Isi pokok pidato",
+      "Penutup pidato",
+      "Daftar hadir"
+    ],
+    "correct": "Pembukaan pidato (Purwaka)"
+  },
+  {
+    "grade": 6,
+    "subject": "indonesia",
+    "key": "k6-indo-2",
+    "caption": "Infografis Langkah Mitigasi Darurat Bencana",
+    "question": "Perhatikan infografis tanggap gempa bumi di atas! Tindakan darurat pertama yang harus dilakukan saat berada di dalam ruangan ketika gempa bumi terjadi adalah....",
+    "options": [
+      "Berlindung di bawah meja yang kokoh dan lindungi kepala",
+      "Berlari panik saling dorong",
+      "Menaiki lift gedung bertingkat",
+      "Berdiri di dekat kaca jendela besar"
+    ],
+    "correct": "Berlindung di bawah meja yang kokoh dan lindungi kepala"
+  },
+  {
+    "grade": 6,
+    "subject": "ipas",
+    "key": "k6-ipas-1",
+    "caption": "Bagan Susunan Planet Mengelilingi Matahari",
+    "question": "Perhatikan bagan susunan tata surya di atas! Planet terbesar di dalam tata surya kita yang berada pada urutan kelima dari matahari adalah planet....",
+    "options": [
+      "Jupiter",
+      "Mars",
+      "Saturnus",
+      "Bumi"
+    ],
+    "correct": "Jupiter"
+  },
+  {
+    "grade": 6,
+    "subject": "ipas",
+    "key": "k6-ipas-2",
+    "caption": "Garis Gaya Fluks Medan Magnet Batang",
+    "question": "Perhatikan garis-garis gaya magnet pada gambar di atas! Arah garis gaya medan magnet di luar batang magnet selalu keluar dari kutub....",
+    "options": [
+      "Kutub Utara (N) menuju Kutub Selatan (S)",
+      "Kutub Selatan menuju Kutub Utara",
+      "Kutub Timur ke Barat",
+      "Tengah ke samping"
+    ],
+    "correct": "Kutub Utara (N) menuju Kutub Selatan (S)"
+  },
+  {
+    "grade": 6,
+    "subject": "pkn",
+    "key": "k6-pkn-1",
+    "caption": "Pita Lambang Cengkeraman Kaki Burung Garuda",
+    "question": "Perhatikan gambar kaki burung Garuda di atas! Pita putih bertuliskan \"Bhinneka Tunggal Ika\" yang dicengkeram erat oleh kaki Garuda melambangkan....",
+    "options": [
+      "Persatuan bangsa Indonesia di tengah keragaman suku, ras, dan agama",
+      "Kekuatan ekonomi semata",
+      "Kemenangan perang senjata",
+      "Pemisahan pulau-pulau"
+    ],
+    "correct": "Persatuan bangsa Indonesia di tengah keragaman suku, ras, dan agama"
+  },
+  {
+    "grade": 6,
+    "subject": "pkn",
+    "key": "k6-pkn-2",
+    "caption": "Kotak Suara Pemilihan Suara Rakyat Demokratis",
+    "question": "Perhatikan gambar kotak suara pemilihan umum di atas! Pelaksanaan pemilu di Indonesia berasaskan \"Luber Jurdil\". Huruf L dan B pada singkatan tersebut adalah....",
+    "options": [
+      "Langsung dan Bebas",
+      "Lengkap dan Baik",
+      "Lancar dan Bersih",
+      "Lega dan Berani"
+    ],
+    "correct": "Langsung dan Bebas"
+  },
+  {
+    "grade": 6,
+    "subject": "coding",
+    "key": "k6-coding-1",
+    "caption": "Ikon Keamanan Protokol Enkripsi Peramban Web",
+    "question": "Perhatikan simbol gembok hijau pada alamat web browser di atas! Simbol gembok terkunci (HTTPS) menandakan bahwa koneksi internet kita....",
+    "options": [
+      "Aman dan terenkripsi terlindungi dari peretas",
+      "Komputer terkena virus berbahaya",
+      "Koneksi internet terputus",
+      "Baterai laptop habis"
+    ],
+    "correct": "Aman dan terenkripsi terlindungi dari peretas"
+  },
+  {
+    "grade": 6,
+    "subject": "coding",
+    "key": "k6-coding-2",
+    "caption": "Bagan Alur Proses Pembelajaran Mesin (AI)",
+    "question": "Perhatikan alur kecerdasan buatan (AI) pada gambar di atas! Alur kerja sistem pengenalan gambar foto kucing bekerja dengan tahapan....",
+    "options": [
+      "Input Data Foto -> Pelatihan Model (Training) -> Prediksi Output",
+      "Hapus Foto -> Komputer Rusak -> Beli Baru",
+      "Print Gambar -> Gunting Kertas -> Tempel",
+      "Tulis Surat -> Kirim Pos -> Tunggu"
+    ],
+    "correct": "Input Data Foto -> Pelatihan Model (Training) -> Prediksi Output"
+  },
+  {
+    "grade": 6,
+    "subject": "inggris",
+    "key": "k6-inggris-1",
+    "caption": "Spatial Prepositions of Place Diagram",
+    "question": "Look at the picture! Where is the red ball located in relation to the cardboard box?",
+    "options": [
+      "Under the box",
+      "Inside the box",
+      "Above the box",
+      "Behind the box"
+    ],
+    "correct": "Under the box"
+  },
+  {
+    "grade": 6,
+    "subject": "inggris",
+    "key": "k6-inggris-2",
+    "caption": "Street Map Directions and Navigation Sign",
+    "question": "Look at the street map picture! If you are at the crossroad and see the arrow pointing to the left, what instruction should you give?",
+    "options": [
+      "Turn left at the junction",
+      "Turn right",
+      "Go straight backwards",
+      "Stop and turn around"
+    ],
+    "correct": "Turn left at the junction"
+  },
+  {
+    "grade": 6,
+    "subject": "sbdp",
+    "key": "k6-sbdp-1",
+    "caption": "Desain Media Reklame Cetak Promosi Produk",
+    "question": "Perhatikan lembar poster promosi pada gambar di atas! Karya seni grafis yang memuat gambar dan tulisan persuasif untuk menawarkan produk atau jasa dinamakan....",
+    "options": [
+      "Poster Reklame",
+      "Buku harian",
+      "Surat kabar resmi",
+      "Kwitansi belanja"
+    ],
+    "correct": "Poster Reklame"
+  },
+  {
+    "grade": 6,
+    "subject": "sbdp",
+    "key": "k6-sbdp-2",
+    "caption": "Gambar Arsitektur Bangunan Ikonik Monumen Nasional",
+    "question": "Perhatikan gambar monumen megah di atas! Monumen Nasional (Monas) di Jakarta dengan cawan dan lidah api berlapis emas di puncaknya merupakan karya seni....",
+    "options": [
+      "Seni Patung Konstruksi Arsitektur Tiga Dimensi",
+      "Lukisan cat minyak kanvas",
+      "Anyaman bambu",
+      "Batik cap kain"
+    ],
+    "correct": "Seni Patung Konstruksi Arsitektur Tiga Dimensi"
+  },
+  {
+    "grade": 6,
+    "subject": "pjok",
+    "key": "k6-pjok-1",
+    "caption": "Bagan Formasi Taktik Penempatan Posisi Pemain",
+    "question": "Perhatikan denah lapangan sepak bola di atas! Formasi taktik tim yang menempatkan 4 pemain bertahan, 4 pemain gelandang tengah, dan 2 penyerang depan disebut formasi....",
+    "options": [
+      "Formasi 4 - 4 - 2",
+      "Formasi 1 - 1 - 8",
+      "Formasi 5 - 5 - 0",
+      "Formasi 3 - 3 - 3"
+    ],
+    "correct": "Formasi 4 - 4 - 2"
+  },
+  {
+    "grade": 6,
+    "subject": "pjok",
+    "key": "k6-pjok-2",
+    "caption": "Kelengkapan Kotak Medis Pertolongan Pertama (P3K)",
+    "question": "Perhatikan kotak medis palang merah pada gambar di atas! Peralatan medis darurat dalam kotak P3K yang digunakan untuk membalut luka gores dan mencegah infeksi kuman adalah....",
+    "options": [
+      "Kasa steril dan plester perban",
+      "Jarum suntik obat keras",
+      "Palu besi",
+      "Gunting seng"
+    ],
+    "correct": "Kasa steril dan plester perban"
+  },
+  {
+    "grade": 6,
+    "subject": "sunda",
+    "key": "k6-sunda-1",
+    "caption": "Pakarang Pusaka Sunda: Kujang Jawa Barat (Sunda)",
+    "question": "Titénan gambar pakarang tradisional Jawa Barat di luhur! Pakarang pusaka khas tatar Sunda anu bentukna melengkung unik kalawan liang-liang dina awakna nyaéta....",
+    "options": [
+      "Kujang",
+      "Keris",
+      "Golok",
+      "Rencong"
+    ],
+    "correct": "Kujang"
+  },
+  {
+    "grade": 6,
+    "subject": "sunda",
+    "key": "k6-sunda-1",
+    "caption": "Tata Cara Biantara Basa Sunda",
+    "question": "Dina nepikeun biantara basa Sunda, babasan \"bilih aya saur saheulaan, bobo sapanon carang sapakan\" biasana diucapkeun dina bagean....",
+    "options": [
+      "Panutup biantara (nyuhunkeun hapunten)",
+      "Bubuka biantara",
+      "Eusi biantara",
+      "Salam pamuka"
+    ],
+    "correct": "Panutup biantara (nyuhunkeun hapunten)"
+  },
+  {
+    "grade": 6,
+    "subject": "jawa",
+    "key": "k6-jawa-1",
+    "caption": "Wujud Pasangan Aksara Tradisional Jawa (Jawa)",
+    "question": "Gatekna gambar pasangan aksara Jawa ing dhuwur! Fungsi utama pasangan ing aksara Jawa yaiku kanggo....",
+    "options": [
+      "Mateni swara vokal aksara sigeg sadurunge",
+      "Menehi swara sengau",
+      "Menehi swara ejaan asing",
+      "Nggawe aksara dadi kandel"
+    ],
+    "correct": "Mateni swara vokal aksara sigeg sadurunge"
+  },
+  {
+    "grade": 6,
+    "subject": "jawa",
+    "key": "k6-jawa-1",
+    "caption": "Struktur Sesorah Basa Jawa",
+    "question": "Perangan sesorah (pidato) basa Jawa sing isine nyuwun pangapura mbok menawa ana atur utawa tindak tanduk sing kurang nengsemake diarani....",
+    "options": [
+      "Wasana basa (panutup)",
+      "Purwaka basa (pambuka)",
+      "Surasa basa (isi)",
+      "Salam pambuka"
+    ],
+    "correct": "Wasana basa (panutup)"
+  }
+]

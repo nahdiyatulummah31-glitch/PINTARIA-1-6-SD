@@ -1,0 +1,6 @@
+{
+  "name": "Pintaria SD - Belajar & Bank Soal Anak SD Multi-Kurikulum",
+  "description": "Aplikasi belajar dan latihan soal SD multi-kurikulum lengkap (Kurikulum Merdeka, Cambridge Primary Stage 1-6, dan Singapore Primary P1-P6) dengan minimal 50 butir latihan soal per mata pelajaran, kuis interaktif, dan LKPD siap cetak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

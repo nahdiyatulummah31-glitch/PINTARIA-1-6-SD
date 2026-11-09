@@ -1,0 +1,1475 @@
+{
+  "cam_art_G1": [
+    "Colour Wheel & Harmonies",
+    "Cultural Patterns & Motifs",
+    "Sculpture & 3D Forms",
+    "Tonal Shading",
+    "Famous Artists & Movements"
+  ],
+  "cam_art_G2": [
+    "Line & Texture",
+    "Visual Storytelling",
+    "Printmaking & Stencils",
+    "Mixed Media",
+    "Composition & Perspective"
+  ],
+  "cam_art_G3": [
+    "Sculpture & 3D Forms",
+    "Tonal Shading",
+    "Famous Artists & Movements",
+    "Colour Wheel & Harmonies",
+    "Cultural Patterns & Motifs"
+  ],
+  "cam_art_G4": [
+    "Printmaking & Stencils",
+    "Mixed Media",
+    "Composition & Perspective",
+    "Line & Texture",
+    "Visual Storytelling"
+  ],
+  "cam_art_G5": [
+    "Famous Artists & Movements",
+    "Colour Wheel & Harmonies",
+    "Cultural Patterns & Motifs",
+    "Sculpture & 3D Forms",
+    "Tonal Shading"
+  ],
+  "cam_art_G6": [
+    "Composition & Perspective",
+    "Line & Texture",
+    "Visual Storytelling",
+    "Printmaking & Stencils",
+    "Mixed Media"
+  ],
+  "cam_computing_G1": [
+    "Algorithms",
+    "Conditionals",
+    "Digital Safety",
+    "Scratch Programming"
+  ],
+  "cam_computing_G2": [
+    "Debugging",
+    "Variables",
+    "Computational Thinking",
+    "Hardware & Devices"
+  ],
+  "cam_computing_G3": [
+    "Scratch Programming",
+    "Algorithms",
+    "Conditionals",
+    "Digital Safety"
+  ],
+  "cam_computing_G4": [
+    "Hardware & Devices",
+    "Debugging",
+    "Variables",
+    "Computational Thinking"
+  ],
+  "cam_computing_G5": [
+    "Digital Safety",
+    "Scratch Programming",
+    "Algorithms",
+    "Conditionals"
+  ],
+  "cam_computing_G6": [
+    "Computational Thinking",
+    "Hardware & Devices",
+    "Debugging",
+    "Variables"
+  ],
+  "cam_english_G1": [
+    "Phonics & Letter sounds",
+    "Blending & Segmenting",
+    "Sight words & High-frequency words",
+    "Capital letters & Full stops",
+    "Spelling & Simple sentences",
+    "Nouns",
+    "Singular and plural",
+    "Greetings & Introductions",
+    "Characters & Setting",
+    "Labels & Simple instructions",
+    "Adjectives",
+    "Following instructions"
+  ],
+  "cam_english_G2": [
+    "Fiction & Character",
+    "Non-fiction & Supporting details",
+    "Narrative writing",
+    "Instructions & Imperative verbs",
+    "Common & Proper nouns",
+    "Adverbs",
+    "Conjunctions",
+    "Giving opinions & Reasons",
+    "Poetry & Rhyming words",
+    "Editing basic writing"
+  ],
+  "cam_english_G3": [
+    "Inference & Prediction",
+    "Main idea & Comparing texts",
+    "Informative writing & Reports",
+    "Letters & Diary writing",
+    "Direct speech & Punctuation",
+    "Prepositions & Sentence types",
+    "Tenses",
+    "Presentation & Giving reasons"
+  ],
+  "cam_english_G4": [
+    "Author",
+    "Summarising & Key evidence",
+    "Persuasive writing & Rhetorical techniques",
+    "Paragraph development & Topic sentences",
+    "Subject-verb agreement",
+    "Clauses & Complex sentences"
+  ],
+  "cam_english_G5": [
+    "Tone, Viewpoint & Evaluating information",
+    "Comparing texts & Perspective",
+    "Articles & Speeches",
+    "Paragraph cohesion & Transitions",
+    "Modal verbs",
+    "Figurative language & Metaphors"
+  ],
+  "cam_english_G6": [
+    "Bias, Viewpoint & Evaluating evidence",
+    "Inference & Implicit meaning",
+    "Argumentative writing & Counter-arguments",
+    "Cohesion & Advanced style",
+    "Active & Passive voice",
+    "Direct & Indirect speech"
+  ],
+  "cam_foreign_lang_G1": [
+    "Greetings & Salutations",
+    "Food & Drinks",
+    "Colours & Common Objects",
+    "Basic Verb Conjugation",
+    "Days, Months & Calendar"
+  ],
+  "cam_foreign_lang_G2": [
+    "Numbers 1 to 100",
+    "Hobbies & Sports",
+    "Family & Kinship",
+    "Polite Everyday Conversational Phrases",
+    "Telling the Time"
+  ],
+  "cam_foreign_lang_G3": [
+    "Colours & Common Objects",
+    "Basic Verb Conjugation",
+    "Days, Months & Calendar",
+    "Greetings & Salutations",
+    "Food & Drinks"
+  ],
+  "cam_foreign_lang_G4": [
+    "Family & Kinship",
+    "Polite Everyday Conversational Phrases",
+    "Telling the Time",
+    "Numbers 1 to 100",
+    "Hobbies & Sports"
+  ],
+  "cam_foreign_lang_G5": [
+    "Days, Months & Calendar",
+    "Greetings & Salutations",
+    "Food & Drinks",
+    "Colours & Common Objects",
+    "Basic Verb Conjugation"
+  ],
+  "cam_foreign_lang_G6": [
+    "Telling the Time",
+    "Numbers 1 to 100",
+    "Hobbies & Sports",
+    "Family & Kinship",
+    "Polite Everyday Conversational Phrases"
+  ],
+  "cam_global_perspectives_G1": [
+    "Researching Global Issues",
+    "Human Rights",
+    "Families & Communities",
+    "Water & Natural Resources",
+    "Digital World & Communication"
+  ],
+  "cam_global_perspectives_G2": [
+    "Protecting Living Things",
+    "Sustainable Living",
+    "Renewable Energy",
+    "Cross-Cultural Understanding",
+    "Climate Action"
+  ],
+  "cam_global_perspectives_G3": [
+    "Families & Communities",
+    "Water & Natural Resources",
+    "Digital World & Communication",
+    "Researching Global Issues",
+    "Human Rights"
+  ],
+  "cam_global_perspectives_G4": [
+    "Renewable Energy",
+    "Cross-Cultural Understanding",
+    "Climate Action",
+    "Protecting Living Things",
+    "Sustainable Living"
+  ],
+  "cam_global_perspectives_G5": [
+    "Digital World & Communication",
+    "Researching Global Issues",
+    "Human Rights",
+    "Families & Communities",
+    "Water & Natural Resources"
+  ],
+  "cam_global_perspectives_G6": [
+    "Climate Action",
+    "Protecting Living Things",
+    "Sustainable Living",
+    "Renewable Energy",
+    "Cross-Cultural Understanding"
+  ],
+  "cam_math_G1": [
+    "Counting & Place value",
+    "Number bonds & Addition",
+    "Doubles & Halves",
+    "2D shapes",
+    "Length & Height",
+    "Sorting & Classification",
+    "Patterns & Reasoning"
+  ],
+  "cam_math_G2": [
+    "Place value & Partitioning",
+    "Multiplication & Division",
+    "Fractions",
+    "3D shapes & Symmetry",
+    "Time & Clocks",
+    "Pictograms & Charts",
+    "Problem solving & Generalising"
+  ],
+  "cam_math_G3": [
+    "Whole numbers & Rounding",
+    "Fractions & Equivalent fractions",
+    "Multiplication tables",
+    "Perimeter & Angles",
+    "Mass & Capacity",
+    "Bar charts & Data interpretation",
+    "Mathematical reasoning"
+  ],
+  "cam_math_G4": [
+    "Decimals & Place value",
+    "Fractions to Decimals",
+    "Area of rectangles",
+    "Angles & Classification",
+    "Transformations & Symmetry",
+    "Line graphs & Probability",
+    "Pattern finding & Verification"
+  ],
+  "cam_math_G5": [
+    "Percentages & Decimals",
+    "Ratio & Proportion",
+    "Powers & Square numbers",
+    "Volume of cuboids",
+    "Coordinates & Grid",
+    "Mode, Median, Mean",
+    "Generalising & Justifying"
+  ],
+  "cam_math_G6": [
+    "Integers & Negative numbers",
+    "Order of operations (BIDMAS / BODMAS)",
+    "Algebra & Unknowns",
+    "Area of triangles",
+    "Properties of circles",
+    "Probability scale",
+    "Critiquing arguments & Justification"
+  ],
+  "cam_music_G1": [
+    "Beat & Pulse",
+    "World Music Traditions",
+    "Dynamics (Piano & Forte)",
+    "Melody & Harmony",
+    "Instrument Families"
+  ],
+  "cam_music_G2": [
+    "Pitch (High & Low)",
+    "Orchestral Instruments",
+    "Tempo (Allegro & Lento)",
+    "Expressive Performance",
+    "Rhythm & Note Values"
+  ],
+  "cam_music_G3": [
+    "Dynamics (Piano & Forte)",
+    "Melody & Harmony",
+    "Instrument Families",
+    "Beat & Pulse",
+    "World Music Traditions"
+  ],
+  "cam_music_G4": [
+    "Tempo (Allegro & Lento)",
+    "Expressive Performance",
+    "Rhythm & Note Values",
+    "Pitch (High & Low)",
+    "Orchestral Instruments"
+  ],
+  "cam_music_G5": [
+    "Instrument Families",
+    "Beat & Pulse",
+    "World Music Traditions",
+    "Dynamics (Piano & Forte)",
+    "Melody & Harmony"
+  ],
+  "cam_music_G6": [
+    "Rhythm & Note Values",
+    "Pitch (High & Low)",
+    "Orchestral Instruments",
+    "Tempo (Allegro & Lento)",
+    "Expressive Performance"
+  ],
+  "cam_pe_G1": [
+    "Fundamental Locomotor Skills",
+    "Coordination & Agility",
+    "Cardiovascular Fitness",
+    "Swimming & Water Safety",
+    "Balance & Stability"
+  ],
+  "cam_pe_G2": [
+    "Warm-Up & Cool-Down",
+    "Athletics & Track Events",
+    "Invasion Games & Tactics",
+    "Healthy Active Lifestyle",
+    "Sportsmanship & Fair Play"
+  ],
+  "cam_pe_G3": [
+    "Cardiovascular Fitness",
+    "Swimming & Water Safety",
+    "Balance & Stability",
+    "Fundamental Locomotor Skills",
+    "Coordination & Agility"
+  ],
+  "cam_pe_G4": [
+    "Invasion Games & Tactics",
+    "Healthy Active Lifestyle",
+    "Sportsmanship & Fair Play",
+    "Warm-Up & Cool-Down",
+    "Athletics & Track Events"
+  ],
+  "cam_pe_G5": [
+    "Balance & Stability",
+    "Fundamental Locomotor Skills",
+    "Coordination & Agility",
+    "Cardiovascular Fitness",
+    "Swimming & Water Safety"
+  ],
+  "cam_pe_G6": [
+    "Sportsmanship & Fair Play",
+    "Warm-Up & Cool-Down",
+    "Athletics & Track Events",
+    "Invasion Games & Tactics",
+    "Healthy Active Lifestyle"
+  ],
+  "cam_science_G1": [
+    "Living things & Habitats",
+    "Human body & Senses",
+    "Materials & Properties",
+    "Forces & Movement",
+    "Day and night & Weather",
+    "Observation & Questions"
+  ],
+  "cam_science_G2": [
+    "Plants & Life cycles",
+    "Properties of materials & Solids and liquids",
+    "Sound & Vibrations",
+    "Electricity & Simple circuits",
+    "Seasons & Environment",
+    "Classification & Data"
+  ],
+  "cam_science_G3": [
+    "Human organs & Skeleton",
+    "Habitats & Food chains",
+    "States of matter & Changes of state",
+    "Forces & Friction",
+    "Light & Shadows",
+    "Sun, Moon, and Earth"
+  ],
+  "cam_science_G4": [
+    "Human digestive system",
+    "Ecosystems & Food webs",
+    "Solubility & Solutions",
+    "Electricity & Conductors/Insulators",
+    "Magnets & Magnetic poles",
+    "Volcanoes, Earthquakes & Rocks"
+  ],
+  "cam_science_G5": [
+    "Plant reproduction & Pollination",
+    "Human circulatory system",
+    "Evaporation & Condensation",
+    "Light reflection & Refraction",
+    "Gravity & Mass vs Weight",
+    "Solar system & Planetary orbits"
+  ],
+  "cam_science_G6": [
+    "Adaptations & Evolution",
+    "Cell structure & Microorganisms",
+    "Reversible vs Irreversible chemical changes",
+    "Electrical circuits & Voltage",
+    "Energy transformation",
+    "Renewable energy & Climate"
+  ],
+  "coding_G1": [
+    "Konsep Algoritma (Urutan Langkah)",
+    "Langkah Mencuci Tangan",
+    "Arah Navigasi Robot",
+    "Pengenalan Pola (Pattern)",
+    "Menemukan Kesalahan (Debugging)",
+    "Pengulangan (Looping)",
+    "Kondisi Jika-Maka (If-Else)",
+    "Dekomposisi Masalah",
+    "Pola Warna Berulang",
+    "Arah dan Pergerakan",
+    "Langkah Menggosok Gigi",
+    "Perangkat Masukan",
+    "Menghitung Langkah Maju",
+    "Pengenalan Komputer",
+    "Mencari Perbedaan Gambar",
+    "Aturan Bermain Komputer"
+  ],
+  "coding_G2": [
+    "Perangkat Masukan (Input)",
+    "Perangkat Keluaran (Output)",
+    "Blok Visual Scratch",
+    "Karakter Sprite",
+    "Logika Biner (Nyala/Mati)",
+    "Keamanan Digital (Password)",
+    "Waktu Layar Sehat (Screen Time)",
+    "Perintah Belok Robot",
+    "Mendeteksi Bug",
+    "Perulangan Sederhana (Loop)",
+    "Input dan Output",
+    "Kondisi Jika-Maka",
+    "Pengurutan Instruksi",
+    "Suara dalam Program",
+    "Etika Perangkat Digital"
+  ],
+  "coding_G3": [
+    "Urutan Logis (Membuat Roti)",
+    "Papan Ketik (Keyboard)",
+    "Menghapus Huruf",
+    "Looping Angka",
+    "Algoritma Memakai Sepatu",
+    "Labirin Kotak (Grid Maze)",
+    "Internet Aman untuk Anak",
+    "Deteksi Pola Warna",
+    "Scratch: Event Bendera Hijau",
+    "Koordinat Gerak X dan Y",
+    "Looping Bersyarat",
+    "Percabangan If-Then-Else",
+    "Sensor Sentuh (Sensing)",
+    "Dekomposisi Masalah",
+    "Penyimpanan Berkas Digital",
+    "Keamanan Akun Digital"
+  ],
+  "coding_G4": [
+    "Event / Pemicu Kejadian",
+    "Latar Belakang (Backdrop)",
+    "Perangkat Keras (Hardware)",
+    "Perangkat Lunak (Software)",
+    "Abstraksi (Fokus Hal Penting)",
+    "Kondisi Boolean (Benar / Salah)",
+    "Kondisi Boolean (Salah)",
+    "Perintah Suara Komputer",
+    "Menghindari Hambatan (Obstacle)",
+    "Konsep Variabel",
+    "Operator Perbandingan",
+    "Broadcast Pesan Antar Sprite",
+    "Animasi Pergantian Kostum",
+    "Logika Acak (Pick Random)",
+    "Jaringan Internet Dasar",
+    "Browser Penjelajah Web",
+    "Pencarian Informasi Efektif"
+  ],
+  "coding_G5": [
+    "Perintah Lompat Robot",
+    "Konsep Urutan Masak Air",
+    "Kamera Komputer (Webcam)",
+    "Pola Angka Berulang",
+    "Perintah Berhenti (Stop)",
+    "Logika Memilih Baju",
+    "Etika Komentar di Internet",
+    "Baterai Gadget",
+    "Penyimpanan Data (Save)",
+    "Struktur Data: List (Daftar)",
+    "Algoritma Pencarian (Linear Search)",
+    "Fungsi / Blok Kustom (My Blocks)",
+    "Operator Logika Boolean (AND)",
+    "Simulasi Fisika: Gravitasi",
+    "Kloning Sprite (Clone)",
+    "Jejak Digital (Digital Footprint)",
+    "Kejahatan Siber: Phishing",
+    "Sandi Rahasia: Kriptografi Kuno"
+  ],
+  "coding_G6": [
+    "Alat Cetak Fisik (Printer)",
+    "Kreativitas Coding",
+    "Algoritma Menanam Biji",
+    "Perintah Suara (Speech Recognition)",
+    "Menghitung Langkah Program",
+    "Piksel Layar (Pixel)",
+    "Kabel dan Keselamatan Listrik",
+    "Pola Perulangan Gerak",
+    "Empat Pilar Computational Thinking",
+    "Abstraksi Data",
+    "Algoritma Pengurutan (Bubble Sort)",
+    "Sistem Bilangan Biner",
+    "Konsep Kecerdasan Buatan (AI)",
+    "Hak Kekayaan Intelektual (Hak Cipta)",
+    "Keamanan Kata Sandi Kuat",
+    "Penyimpanan Awan (Cloud Storage)",
+    "Etika Anti-Cyberbullying"
+  ],
+  "daerah_G1": [
+    "Mengenal Anggota Awak (Basa Sunda)",
+    "Perangane Awak (Basa Jawa)",
+    "Wilangan & Angka (Basa Sunda)",
+    "Wilangan & Angka (Basa Jawa)",
+    "Kulawarga & Sapaan (Basa Sunda)",
+    "Keluarga & Sapaan (Basa Jawa)",
+    "Kosakata Sehari-hari (Basa Bali)",
+    "Kosakata Harian (Basa Madura)",
+    "Anak Sasatoan (Basa Sunda)",
+    "Arane Anak Kewan (Basa Jawa)"
+  ],
+  "daerah_G2": [
+    "Kawih & Tembang Dolanan (Basa Sunda)",
+    "Tembang Dolanan (Basa Jawa)",
+    "Undak Usuk Basa Sederhana (Basa Sunda)",
+    "Unggah-Ungguh Basa (Basa Jawa)",
+    "Kosakata Basa Bali (Basa Bali)",
+    "Ondhaggha Bhâsa (Basa Madura)",
+    "Kaulinan Barudak (Basa Sunda)",
+    "Dolanan Tradisional (Basa Jawa)"
+  ],
+  "daerah_G3": [
+    "Aksara Jawa Dhasar (Dentawyanjana)",
+    "Punakawan Wayang (Basa Jawa)",
+    "Paguneman / Pacelathon (Basa Sunda)",
+    "Paribasa Sunda Sederhana",
+    "Kata Sapaan Tradisi Minangkabau",
+    "Paribasan Jawa",
+    "Adat Istiadat Bali",
+    "Kearifan Lokal Madura"
+  ],
+  "daerah_G4": [
+    "Sandhangan Swara Aksara Jawa",
+    "Pupuh & Tembang Macapat (Basa Sunda)",
+    "Tembang Macapat Pocung (Basa Jawa)",
+    "Aksara Sunda Ngalagena",
+    "Carita Rahayat Nusantara (Basa Sunda)",
+    "Crita Rakyat Jawa (Basa Jawa)",
+    "Pepatah Petitih Minangkabau",
+    "Basa Bali Alus & Kasar"
+  ],
+  "daerah_G5": [
+    "Sisindiran Sunda (Basa Sunda)",
+    "Wayang Pandhawa Lima (Basa Jawa)",
+    "Undak Usuk Basa Alus (Basa Sunda)",
+    "Parikan Tradisional (Basa Jawa)",
+    "Ondhaggha Basa Madura (Basa Madura)",
+    "Paribasa Bali (Sesonggan)",
+    "Pancakaki & Silsilah (Basa Sunda)",
+    "Aksara Jawa Pasangan"
+  ],
+  "daerah_G6": [
+    "Biantara / Pidato Basa Sunda",
+    "Sesorah / Pidhato Basa Jawa",
+    "Babasan & Paribasa Sunda Jero",
+    "Saloka & Bebasan Jawa",
+    "Kearifan Upacara Adat Nusantara",
+    "Tradisi Upacara Adat Jawa",
+    "Sastra Bali Purwa",
+    "Kearifan Falsafah Budaya Madura"
+  ],
+  "indonesia_G1": [
+    "Pemahaman Membaca & Menulis",
+    "Penggunaan Tanda Baca",
+    "Tata Bahasa & Morfologi"
+  ],
+  "indonesia_G2": [
+    "Pemahaman Membaca & Menulis"
+  ],
+  "indonesia_G3": [
+    "Pemahaman Membaca & Menulis"
+  ],
+  "indonesia_G4": [
+    "Pemahaman Membaca & Menulis",
+    "Memahami Teks Narasi",
+    "Puisi & Sastra Anak",
+    "Ide Pokok & Kalimat Utama",
+    "Tata Bahasa & Morfologi",
+    "Apresiasi Pantun"
+  ],
+  "indonesia_G5": [
+    "Puisi & Sastra Anak",
+    "Pemahaman Membaca & Menulis",
+    "Tata Bahasa & Morfologi"
+  ],
+  "indonesia_G6": [
+    "Pemahaman Membaca & Menulis",
+    "Teks Laporan Hasil Observasi",
+    "Sinonim Kata",
+    "Teks Eksplanasi",
+    "Kalimat Efektif",
+    "Pengisian Formulir Resmi",
+    "Struktur Pidato",
+    "Kepemimpinan & Pidato"
+  ],
+  "inggris_G1": [
+    "Daily English Vocabulary & Expression"
+  ],
+  "inggris_G2": [
+    "Daily English Vocabulary & Expression",
+    "School Utensils",
+    "Fruits Vocabulary",
+    "Favorite Fruits",
+    "Numbers 1-20"
+  ],
+  "inggris_G3": [
+    "Daily English Vocabulary & Expression",
+    "Hobbies and Activities",
+    "Meals of the Day"
+  ],
+  "inggris_G4": [
+    "Daily English Vocabulary & Expression",
+    "Telling Time"
+  ],
+  "inggris_G5": [
+    "Food and Beverages",
+    "Daily English Vocabulary & Expression",
+    "Parts of the Body"
+  ],
+  "inggris_G6": [
+    "Daily English Vocabulary & Expression"
+  ],
+  "ipas_G1": [
+    "Sains dan Lingkungan Sosial",
+    "Bagian & Fungsi Tumbuhan"
+  ],
+  "ipas_G2": [
+    "Sains dan Lingkungan Sosial",
+    "Bagian & Fungsi Tumbuhan",
+    "Gaya & Energi"
+  ],
+  "ipas_G3": [
+    "Sains dan Lingkungan Sosial",
+    "Ciri-Ciri Makhluk Hidup",
+    "Simbiosis Makhluk Hidup",
+    "Wujud dan Perubahan Zat",
+    "Bentuk Energi",
+    "Arah Mata Angin",
+    "Gaya & Energi"
+  ],
+  "ipas_G4": [
+    "Sains dan Lingkungan Sosial",
+    "Bagian & Fungsi Tumbuhan",
+    "Gaya & Energi"
+  ],
+  "ipas_G5": [
+    "Sains dan Lingkungan Sosial",
+    "Ekosistem & Lingkungan",
+    "Geografi & Hubungan Antarnegara",
+    "Gaya & Energi",
+    "Bagian & Fungsi Tumbuhan"
+  ],
+  "ipas_G6": [
+    "Sistem Gerak & Tubuh Manusia",
+    "Sains dan Lingkungan Sosial",
+    "Sejarah Perjuangan Bangsa",
+    "Geografi & Hubungan Antarnegara"
+  ],
+  "jawa_G1": [
+    "Perangane Awak",
+    "Wilangan & Angka Jawa",
+    "Keluarga & Sapaan",
+    "Swara Kewan",
+    "Werna ing Basa Jawa",
+    "Kaluwarga & Sedulur",
+    "Piranti Sekolah",
+    "Unggah-Ungguh Basa"
+  ],
+  "jawa_G2": [
+    "Unggah-Ungguh Kesantunan",
+    "Unggah-Ungguh Basa Jawa",
+    "Basa Krama Alus",
+    "Tembang Dolanan Jawa",
+    "Tokoh Punakawan",
+    "Pangucap Sugeng",
+    "Jeneng Anak Kewan",
+    "Tokoh Wayang Punakawan",
+    "Unggah-Ungguh Basa",
+    "Tembung Kosok Balen (Antonim)"
+  ],
+  "jawa_G3": [
+    "Aksara Jawa Dhasar",
+    "Punakawan Petruk",
+    "Omah Adat Joglo",
+    "Gamêlan Tradisional",
+    "Ngaran Anak Kewan",
+    "Basa Krama Inggil Anggota Awak",
+    "Aksara Jawa Dentawyanjana",
+    "Pandhawa Lima",
+    "Omah Adat Jawa (Joglo)",
+    "Piranti Gamelan Jawa",
+    "Arane Kembang ing Basa Jawa",
+    "Unggah-Ungguh Krama Madya",
+    "Panyandra Perangane Awak"
+  ],
+  "jawa_G4": [
+    "Sandhangan Swara",
+    "Sandhangan Panyigeg Wanda",
+    "Satria Pandhawa Lima",
+    "Tembung Kosok Balen (Antonim)",
+    "Tembung Saroja",
+    "Sandhangan Swara Aksara Jawa",
+    "Tokoh Pandhawa ing Pewayangan",
+    "Crita Rakyat Jawa",
+    "Tembung Kosok Balen",
+    "Basa Krama Alus"
+  ],
+  "jawa_G5": [
+    "Paribasan Jawa",
+    "Tembang Macapat Pocung",
+    "Paugeran Tembang Macapat",
+    "Tembang Macapat",
+    "Satria Raden Werkudara",
+    "Gamêlan Jawa",
+    "Tembung Entar (Makna Kias)",
+    "Tembang Macapat Gambuh",
+    "Paugeran Tembang Macapat Pocung",
+    "Bebasan Jawa",
+    "Tokoh Wayang Raden Gatotkaca",
+    "Senjata Pusaka ing Pewayangan",
+    "Karya Sastra Geguritan",
+    "Basa Krama Alus",
+    "Tradhisi & Upacara Adat Jawa"
+  ],
+  "jawa_G6": [
+    "Sesorah (Pidhato) Basa Jawa",
+    "Pasangan Aksara Jawa",
+    "Paribasan Bebasan Jawa",
+    "Tembang Dhandhanggula",
+    "Karya Seni Wayang Purwa",
+    "Nayaga lan Sinden",
+    "Sandhangan Pangkon",
+    "Paribasan Saloka",
+    "Cangkriman Tembang Pocung",
+    "Cangkriman Wancahan",
+    "Struktur Sesorah (Pidato Jawa)",
+    "Sandhangan Mandaswara",
+    "Parikan Jawa (Pantun)",
+    "Lakon Wayang Ramayana",
+    "Basa Krama Inggil"
+  ],
+  "matematika_G1": [
+    "Bilangan Cacah & Nilai Tempat",
+    "Operasi Hitung Bilangan"
+  ],
+  "matematika_G2": [
+    "Bilangan Cacah & Nilai Tempat",
+    "Operasi Hitung Bilangan",
+    "Operasi Hitung Pengurangan",
+    "Membaca Lambang Bilangan",
+    "Operasi Hitung Soal Cerita",
+    "Pengukuran Waktu",
+    "Nilai Tempat Bilangan",
+    "Pola Bilangan Loncat",
+    "Operasi Penjumlahan Bersusun",
+    "Operasi Pengurangan Bersusun",
+    "Bentuk Bangun Datar",
+    "Pengukuran Panjang",
+    "Operasi Perkalian Dasar"
+  ],
+  "matematika_G3": [
+    "Operasi Hitung Bilangan",
+    "Nilai Tempat Ribuan",
+    "Operasi Penjumlahan",
+    "Operasi Pengurangan",
+    "Mengurutkan Bilangan",
+    "Bilangan Cacah & Nilai Tempat"
+  ],
+  "matematika_G4": [
+    "Operasi Hitung Bilangan",
+    "Bilangan Cacah & Nilai Tempat",
+    "Geometri Bangun Datar",
+    "Pengukuran Waktu",
+    "Pengolahan Data & Statistik"
+  ],
+  "matematika_G5": [
+    "Bilangan Cacah & Nilai Tempat",
+    "Operasi Hitung Bilangan",
+    "FPB dan KPK",
+    "Pecahan & Desimal",
+    "Geometri Bangun Datar"
+  ],
+  "matematika_G6": [
+    "Operasi Hitung Bilangan",
+    "Bilangan Cacah & Nilai Tempat",
+    "Pecahan Biasa & Desimal",
+    "Perbandingan Bilangan Desimal",
+    "Konversi Pecahan ke Desimal",
+    "Rasio & Perbandingan",
+    "Rasio Sederhana",
+    "Keliling Lingkaran",
+    "Pengukuran Waktu",
+    "Rasio dan Perbandingan"
+  ],
+  "pkn_G1": [
+    "Pendidikan Pancasila & Kewarganegaraan",
+    "Nilai-Nilai Pancasila",
+    "Norma dalam Masyarakat"
+  ],
+  "pkn_G2": [
+    "Pendidikan Pancasila & Kewarganegaraan",
+    "Nilai-Nilai Pancasila",
+    "Norma dalam Masyarakat",
+    "Musyawarah & Gotong Royong"
+  ],
+  "pkn_G3": [
+    "Nilai-Nilai Pancasila",
+    "Pendidikan Pancasila & Kewarganegaraan",
+    "Norma dalam Masyarakat"
+  ],
+  "pancasila_G3": [
+    "Kerukunan Umat Beragama",
+    "Kerukunan Hidup Beragama"
+  ],
+  "pkn_G4": [
+    "Nilai-Nilai Pancasila",
+    "Norma dalam Masyarakat",
+    "Hak dan Kewajiban",
+    "Pendidikan Pancasila & Kewarganegaraan",
+    "Musyawarah & Gotong Royong",
+    "Keberagaman Budaya Indonesia"
+  ],
+  "pkn_G5": [
+    "Pendidikan Pancasila & Kewarganegaraan",
+    "Nilai-Nilai Pancasila",
+    "Hak dan Kewajiban",
+    "Musyawarah & Gotong Royong",
+    "Norma dalam Masyarakat"
+  ],
+  "pkn_G6": [
+    "Norma dalam Masyarakat",
+    "Hak dan Kewajiban",
+    "Pendidikan Pancasila & Kewarganegaraan",
+    "Musyawarah & Gotong Royong",
+    "Nilai-Nilai Pancasila"
+  ],
+  "pjok_G1": [
+    "Kebugaran Jasmani & Olahraga",
+    "Aktivitas Air / Renang"
+  ],
+  "pjok_G2": [
+    "Pola Gerak Dasar",
+    "Kebugaran Jasmani & Olahraga",
+    "Gerak Keseimbangan",
+    "Gerak Lokomotor",
+    "Permainan Tradisional",
+    "Gerak Non-Lokomotor",
+    "Peregangan Otot",
+    "Permainan Bola Kasti",
+    "Permainan Bola Besar",
+    "Senam Lantai",
+    "Gerak Guling Depan",
+    "Senam Irama",
+    "Kebersihan Tubuh",
+    "Permainan Bola"
+  ],
+  "pjok_G3": [
+    "Kebugaran Jasmani & Olahraga",
+    "Pola Gerak Dasar",
+    "Latihan Otot Kaki",
+    "Senam Ketangkasan",
+    "Gerak Manipulatif",
+    "Olahraga Renang",
+    "Alat Senam Ritmik"
+  ],
+  "pjok_G4": [
+    "Permainan Bola",
+    "Kebugaran Jasmani & Olahraga"
+  ],
+  "pjok_G5": [
+    "Kebugaran Jasmani & Olahraga",
+    "Permainan Bola",
+    "Senam Lantai"
+  ],
+  "pjok_G6": [
+    "Teknik Bola Basket",
+    "Operan Pantul Bola Basket",
+    "Teknik Sepak Bola",
+    "Kebugaran Jasmani & Olahraga",
+    "Permainan Bola",
+    "Jumlah Pemain Olahraga",
+    "Kuda-Kuda Pencak Silat",
+    "Pukulan Lurus Pencak Silat",
+    "Bulutangkis Dasar",
+    "Pertolongan Pertama (P3K)"
+  ],
+  "sbdp_G1": [
+    "Seni Rupa & Seni Budaya",
+    "Garis, Bidang & Tekstur",
+    "Kriya & Kerajinan Tangan"
+  ],
+  "sbdp_G2": [
+    "Seni Rupa & Seni Budaya",
+    "Unsur Seni Rupa & Warna",
+    "Garis, Bidang & Tekstur"
+  ],
+  "sbdp_G3": [
+    "Seni Rupa & Seni Budaya",
+    "Warna Primer & Sekunder",
+    "Pencampuran Warna",
+    "Unsur Garis Seni Rupa",
+    "Tangga Nada Musik",
+    "Bentuk Geometris",
+    "Batik Tradisional",
+    "Unsur Seni Rupa & Warna",
+    "Kriya & Kerajinan Tangan",
+    "Garis, Bidang & Tekstur"
+  ],
+  "sbdp_G4": [
+    "Seni Rupa & Seni Budaya",
+    "Garis, Bidang & Tekstur",
+    "Unsur Seni Rupa & Warna"
+  ],
+  "sbdp_G5": [
+    "Seni Rupa & Seni Budaya",
+    "Unsur Seni Rupa & Warna",
+    "Unsur Seni Musik & Lagu",
+    "Garis, Bidang & Tekstur",
+    "Kriya & Kerajinan Tangan"
+  ],
+  "sbdp_G6": [
+    "Seni Rupa & Seni Budaya",
+    "Unsur Seni Rupa & Warna",
+    "Kriya & Kerajinan Tangan"
+  ],
+  "sg_art_G1": [
+    "Elements of Art (Line, Shape, Form)",
+    "Ceramics & Clay Modeling",
+    "Singapore Artists & Nanyang Style",
+    "Printmaking Techniques",
+    "Batik Dyeing & Wax Resist"
+  ],
+  "sg_art_G2": [
+    "Principles of Design (Balance, Contrast)",
+    "Observational Drawing",
+    "Peranakan Heritage Tiles & Motifs",
+    "Contemporary Digital Illustration",
+    "Sculpture & Public Art (Cheong Soo Pieng)"
+  ],
+  "sg_art_G3": [
+    "Singapore Artists & Nanyang Style",
+    "Printmaking Techniques",
+    "Batik Dyeing & Wax Resist",
+    "Elements of Art (Line, Shape, Form)",
+    "Ceramics & Clay Modeling"
+  ],
+  "sg_art_G4": [
+    "Peranakan Heritage Tiles & Motifs",
+    "Contemporary Digital Illustration",
+    "Sculpture & Public Art (Cheong Soo Pieng)",
+    "Principles of Design (Balance, Contrast)",
+    "Observational Drawing"
+  ],
+  "sg_art_G5": [
+    "Batik Dyeing & Wax Resist",
+    "Elements of Art (Line, Shape, Form)",
+    "Ceramics & Clay Modeling",
+    "Singapore Artists & Nanyang Style",
+    "Printmaking Techniques"
+  ],
+  "sg_art_G6": [
+    "Sculpture & Public Art (Cheong Soo Pieng)",
+    "Principles of Design (Balance, Contrast)",
+    "Observational Drawing",
+    "Peranakan Heritage Tiles & Motifs",
+    "Contemporary Digital Illustration"
+  ],
+  "sg_cce_G1": [
+    "Core Value: Respect",
+    "Cyber Wellness & Digital Safety",
+    "Core Value: Resilience",
+    "Appreciating Community Helpers",
+    "Core Value: Care"
+  ],
+  "sg_cce_G2": [
+    "Core Value: Responsibility",
+    "Peer Support & Anti-Bullying",
+    "Core Value: Integrity",
+    "Environmental Responsibility & Green Living",
+    "Core Value: Harmony"
+  ],
+  "sg_cce_G3": [
+    "Core Value: Resilience",
+    "Appreciating Community Helpers",
+    "Core Value: Care",
+    "Core Value: Respect",
+    "Cyber Wellness & Digital Safety"
+  ],
+  "sg_cce_G4": [
+    "Core Value: Integrity",
+    "Environmental Responsibility & Green Living",
+    "Core Value: Harmony",
+    "Core Value: Responsibility",
+    "Peer Support & Anti-Bullying"
+  ],
+  "sg_cce_G5": [
+    "Core Value: Care",
+    "Core Value: Respect",
+    "Cyber Wellness & Digital Safety",
+    "Core Value: Resilience",
+    "Appreciating Community Helpers"
+  ],
+  "sg_cce_G6": [
+    "Core Value: Harmony",
+    "Core Value: Responsibility",
+    "Peer Support & Anti-Bullying",
+    "Core Value: Integrity",
+    "Environmental Responsibility & Green Living"
+  ],
+  "sg_computing_G1": [
+    "Baseline ICT Skills (Typing & File Organization)",
+    "Digital Copyright & Netiquette",
+    "Password Security & Identity Protection",
+    "Search Strategies & Fact Checking",
+    "Algorithmic Thinking & Sequencing"
+  ],
+  "sg_computing_G2": [
+    "Cyber Wellness: Screen Time Balance",
+    "Data Literacy & Spreadsheets",
+    "Recognizing Online Scams & Phishing",
+    "Safe Online Communication",
+    "Block Programming with Scratch"
+  ],
+  "sg_computing_G3": [
+    "Password Security & Identity Protection",
+    "Search Strategies & Fact Checking",
+    "Algorithmic Thinking & Sequencing",
+    "Baseline ICT Skills (Typing & File Organization)",
+    "Digital Copyright & Netiquette"
+  ],
+  "sg_computing_G4": [
+    "Recognizing Online Scams & Phishing",
+    "Safe Online Communication",
+    "Block Programming with Scratch",
+    "Cyber Wellness: Screen Time Balance",
+    "Data Literacy & Spreadsheets"
+  ],
+  "sg_computing_G5": [
+    "Algorithmic Thinking & Sequencing",
+    "Baseline ICT Skills (Typing & File Organization)",
+    "Digital Copyright & Netiquette",
+    "Password Security & Identity Protection",
+    "Search Strategies & Fact Checking"
+  ],
+  "sg_computing_G6": [
+    "Block Programming with Scratch",
+    "Cyber Wellness: Screen Time Balance",
+    "Data Literacy & Spreadsheets",
+    "Recognizing Online Scams & Phishing",
+    "Safe Online Communication"
+  ],
+  "sg_english_G1": [
+    "Vocabulary in Context",
+    "Inference & Deep Comprehension",
+    "Sentence Construction & Connectors",
+    "Subject-Verb Agreement",
+    "Tenses & Conditionals",
+    "Identifying Key Information & Purpose",
+    "Expressing Viewpoints with Justification"
+  ],
+  "sg_english_G2": [
+    "Vocabulary in Context",
+    "Inference & Deep Comprehension",
+    "Sentence Construction & Connectors",
+    "Subject-Verb Agreement",
+    "Tenses & Conditionals",
+    "Identifying Key Information & Purpose",
+    "Expressing Viewpoints with Justification"
+  ],
+  "sg_english_G3": [
+    "Vocabulary in Context",
+    "Inference & Deep Comprehension",
+    "Sentence Construction & Connectors",
+    "Subject-Verb Agreement",
+    "Tenses & Conditionals",
+    "Identifying Key Information & Purpose",
+    "Expressing Viewpoints with Justification"
+  ],
+  "sg_english_G4": [
+    "Vocabulary in Context",
+    "Inference & Deep Comprehension",
+    "Sentence Construction & Connectors",
+    "Subject-Verb Agreement",
+    "Tenses & Conditionals",
+    "Identifying Key Information & Purpose",
+    "Expressing Viewpoints with Justification"
+  ],
+  "sg_english_G5": [
+    "Vocabulary in Context",
+    "Inference & Deep Comprehension",
+    "Sentence Construction & Connectors",
+    "Subject-Verb Agreement",
+    "Tenses & Conditionals",
+    "Identifying Key Information & Purpose",
+    "Expressing Viewpoints with Justification"
+  ],
+  "sg_english_G6": [
+    "Vocabulary in Context",
+    "Inference & Deep Comprehension",
+    "Sentence Construction & Connectors",
+    "Subject-Verb Agreement",
+    "Tenses & Conditionals",
+    "Identifying Key Information & Purpose",
+    "Expressing Viewpoints with Justification"
+  ],
+  "sg_math_G1": [
+    "Number bonds to 10",
+    "Addition within 20",
+    "Comparing lengths",
+    "2D Basic shapes",
+    "Picture graphs with 1-to-1 scale",
+    "Heuristics: Act it out / Draw a diagram",
+    "Ordinal numbers"
+  ],
+  "sg_math_G2": [
+    "Multiplication tables of 2, 3, 4, 5, 10",
+    "Fractions of a whole",
+    "Mass (Kilograms and grams)",
+    "Money (Dollars and cents)",
+    "Picture graphs with scales",
+    "Bar Model: Comparison model",
+    "Time to 5 minutes"
+  ],
+  "sg_math_G3": [
+    "Mental addition and subtraction within 10,000",
+    "Equivalent fractions & Simplest form",
+    "Area and Perimeter of rectangles",
+    "Angles & Right angles",
+    "Bar graphs with scales",
+    "Heuristics: Before-and-After model",
+    "Volume and Capacity (Liters and Milliliters)"
+  ],
+  "sg_math_G4": [
+    "Factors and Multiples",
+    "Decimals up to 3 decimal places",
+    "Symmetry & 8-point compass",
+    "Tables and Line graphs",
+    "Heuristics: Working Backwards",
+    "Fraction of a set"
+  ],
+  "sg_math_G5": [
+    "Percentages (Discount & GST)",
+    "Ratio and Proportion",
+    "Volume of cube and cuboid",
+    "Properties of triangles and four-sided figures",
+    "Average of a data set",
+    "Heuristics: Constant difference"
+  ],
+  "sg_math_G6": [
+    "Algebraic expressions and substitution",
+    "Speed, Distance and Time",
+    "Circles: Area and Circumference",
+    "Nets of 3D solids",
+    "Pie charts & Percentages",
+    "PSLE Heuristics: Equal Fractions / Unit Model"
+  ],
+  "sg_mother_tongue_G1": [
+    "Multilingual Heritage & Idioms",
+    "Folk Tales & Heritage Stories",
+    "Malay Proverbs (Peribahasa)",
+    "Traditional Cultural Costumes & Crafts",
+    "Cultural Festivals (CNY, Hari Raya, Deepavali)"
+  ],
+  "sg_mother_tongue_G2": [
+    "Chinese Idioms & Values (\\u6210\\u8bed)",
+    "Kinship & Courtesy Terms",
+    "Tamil Wisdom & Literature",
+    "Community Harmony & Gotong-Royong",
+    "Respect for Elders & Filial Piety"
+  ],
+  "sg_mother_tongue_G3": [
+    "Malay Proverbs (Peribahasa)",
+    "Traditional Cultural Costumes & Crafts",
+    "Cultural Festivals (CNY, Hari Raya, Deepavali)",
+    "Multilingual Heritage & Idioms",
+    "Folk Tales & Heritage Stories"
+  ],
+  "sg_mother_tongue_G4": [
+    "Tamil Wisdom & Literature",
+    "Community Harmony & Gotong-Royong",
+    "Respect for Elders & Filial Piety",
+    "Chinese Idioms & Values (\\u6210\\u8bed)",
+    "Kinship & Courtesy Terms"
+  ],
+  "sg_mother_tongue_G5": [
+    "Cultural Festivals (CNY, Hari Raya, Deepavali)",
+    "Multilingual Heritage & Idioms",
+    "Folk Tales & Heritage Stories",
+    "Malay Proverbs (Peribahasa)",
+    "Traditional Cultural Costumes & Crafts"
+  ],
+  "sg_mother_tongue_G6": [
+    "Respect for Elders & Filial Piety",
+    "Chinese Idioms & Values (\\u6210\\u8bed)",
+    "Kinship & Courtesy Terms",
+    "Tamil Wisdom & Literature",
+    "Community Harmony & Gotong-Royong"
+  ],
+  "sg_music_G1": [
+    "Singapore National & Community Songs",
+    "Tempo & Movement",
+    "Pitch & Melodic Contours",
+    "Percussion Ostinato",
+    "Gamelan Ensembles & Polyrhythms"
+  ],
+  "sg_music_G2": [
+    "Rhythmic Solfege (Ta, Ti-ti, Ta-a)",
+    "Singing in Unison & Canon",
+    "Traditional Ethnic Instruments (Kompang, Erhu, Veena)",
+    "Instrument Timbre & Sound Exploration",
+    "Expressive Dynamics (p, f, cresc, dim)"
+  ],
+  "sg_music_G3": [
+    "Pitch & Melodic Contours",
+    "Percussion Ostinato",
+    "Gamelan Ensembles & Polyrhythms",
+    "Singapore National & Community Songs",
+    "Tempo & Movement"
+  ],
+  "sg_music_G4": [
+    "Traditional Ethnic Instruments (Kompang, Erhu, Veena)",
+    "Instrument Timbre & Sound Exploration",
+    "Expressive Dynamics (p, f, cresc, dim)",
+    "Rhythmic Solfege (Ta, Ti-ti, Ta-a)",
+    "Singing in Unison & Canon"
+  ],
+  "sg_music_G5": [
+    "Gamelan Ensembles & Polyrhythms",
+    "Singapore National & Community Songs",
+    "Tempo & Movement",
+    "Pitch & Melodic Contours",
+    "Percussion Ostinato"
+  ],
+  "sg_music_G6": [
+    "Expressive Dynamics (p, f, cresc, dim)",
+    "Rhythmic Solfege (Ta, Ti-ti, Ta-a)",
+    "Singing in Unison & Canon",
+    "Traditional Ethnic Instruments (Kompang, Erhu, Veena)",
+    "Instrument Timbre & Sound Exploration"
+  ],
+  "sg_pe_G1": [
+    "Fundamental Movement Skills (Locomotor/Manipulative)",
+    "Health Promotion: My Healthy Plate",
+    "Games Concepts & Territory Tactics",
+    "Outdoor Education & Orienteering",
+    "Athletics (Sprints, Relays, Long Jump)"
+  ],
+  "sg_pe_G2": [
+    "Singapore NAPFA Fitness Standards",
+    "Heat Acclimatization & Hydration",
+    "Striking & Fielding Strategies",
+    "Safety on School Sports Facilities",
+    "Gymnastic Roll Sequences"
+  ],
+  "sg_pe_G3": [
+    "Games Concepts & Territory Tactics",
+    "Outdoor Education & Orienteering",
+    "Athletics (Sprints, Relays, Long Jump)",
+    "Fundamental Movement Skills (Locomotor/Manipulative)",
+    "Health Promotion: My Healthy Plate"
+  ],
+  "sg_pe_G4": [
+    "Striking & Fielding Strategies",
+    "Safety on School Sports Facilities",
+    "Gymnastic Roll Sequences",
+    "Singapore NAPFA Fitness Standards",
+    "Heat Acclimatization & Hydration"
+  ],
+  "sg_pe_G5": [
+    "Athletics (Sprints, Relays, Long Jump)",
+    "Fundamental Movement Skills (Locomotor/Manipulative)",
+    "Health Promotion: My Healthy Plate",
+    "Games Concepts & Territory Tactics",
+    "Outdoor Education & Orienteering"
+  ],
+  "sg_pe_G6": [
+    "Gymnastic Roll Sequences",
+    "Singapore NAPFA Fitness Standards",
+    "Heat Acclimatization & Hydration",
+    "Striking & Fielding Strategies",
+    "Safety on School Sports Facilities"
+  ],
+  "sg_science_G1": [
+    "Living and non-living things",
+    "Observing nature & Senses"
+  ],
+  "sg_science_G2": [
+    "Plant parts (root, stem, leaf)",
+    "Pushing and pulling forces"
+  ],
+  "sg_science_G3": [
+    "Classification of Materials & Organisms",
+    "Life Cycles & Water Cycle",
+    "Plant & Human Systems",
+    "Forms and Conversions of Energy",
+    "Forces & Magnetic Interactions",
+    "Adaptations & Food Webs"
+  ],
+  "sg_science_G4": [
+    "Classification of Materials & Organisms",
+    "Life Cycles & Water Cycle",
+    "Plant & Human Systems",
+    "Forms and Conversions of Energy",
+    "Forces & Magnetic Interactions",
+    "Adaptations & Food Webs"
+  ],
+  "sg_science_G5": [
+    "Classification of Materials & Organisms",
+    "Life Cycles & Water Cycle",
+    "Plant & Human Systems",
+    "Forms and Conversions of Energy",
+    "Forces & Magnetic Interactions",
+    "Adaptations & Food Webs"
+  ],
+  "sg_science_G6": [
+    "Classification of Materials & Organisms",
+    "Life Cycles & Water Cycle",
+    "Plant & Human Systems",
+    "Forms and Conversions of Energy",
+    "Forces & Magnetic Interactions",
+    "Adaptations & Food Webs"
+  ],
+  "sg_social_studies_G1": [
+    "Singapore",
+    "Public Housing (HDB) & Integration",
+    "Pioneers & Nation Building (Samsui Women, Coolies)",
+    "Governance & Rule of Law",
+    "Total Defence (6 Pillars)"
+  ],
+  "sg_social_studies_G2": [
+    "Sir Stamford Raffles & Free Port Founding",
+    "Singapore National Symbols (Lion, Crescent, 5 Stars)",
+    "Multi-Ethnic Communities (Chinatown, Little India, Kampong Gelam)",
+    "Singapore in the World",
+    "Clean & Green City & Water Story (NEWater)"
+  ],
+  "sg_social_studies_G3": [
+    "Pioneers & Nation Building (Samsui Women, Coolies)",
+    "Governance & Rule of Law",
+    "Total Defence (6 Pillars)",
+    "Singapore",
+    "Public Housing (HDB) & Integration"
+  ],
+  "sg_social_studies_G4": [
+    "Multi-Ethnic Communities (Chinatown, Little India, Kampong Gelam)",
+    "Singapore in the World",
+    "Clean & Green City & Water Story (NEWater)",
+    "Sir Stamford Raffles & Free Port Founding",
+    "Singapore National Symbols (Lion, Crescent, 5 Stars)"
+  ],
+  "sg_social_studies_G5": [
+    "Total Defence (6 Pillars)",
+    "Singapore",
+    "Public Housing (HDB) & Integration",
+    "Pioneers & Nation Building (Samsui Women, Coolies)",
+    "Governance & Rule of Law"
+  ],
+  "sg_social_studies_G6": [
+    "Clean & Green City & Water Story (NEWater)",
+    "Sir Stamford Raffles & Free Port Founding",
+    "Singapore National Symbols (Lion, Crescent, 5 Stars)",
+    "Multi-Ethnic Communities (Chinatown, Little India, Kampong Gelam)",
+    "Singapore in the World"
+  ],
+  "sunda_G1": [
+    "Mengenal Anggota Awak",
+    "Wilangan & Angka",
+    "Kulawarga & Sapaan",
+    "Sato Sabudeureun",
+    "Warna dina Basa Sunda",
+    "Sora Sasatoan",
+    "Rupa-rupa Warna",
+    "Pancakaki (Kulawarga)"
+  ],
+  "sunda_G2": [
+    "Ungkapan Santun Harian",
+    "Tatakrama Basa Lemes",
+    "Kekecapan Sapopoe",
+    "Kaulinan Barudak Sunda",
+    "Kaulinan Tradisional",
+    "Waditra Musik Sunda",
+    "Kekecapan Pananya",
+    "Kakawihan Kaulinan Sunda",
+    "Kaulinan Barudak Lembur",
+    "Kandaga Kecap Sasatoan",
+    "Kecap Sabalikna (Antonim)",
+    "Pakakas Sabudeureun Urang",
+    "Tatakrama Basa Sunda"
+  ],
+  "sunda_G3": [
+    "Pakakas Tradisional Dapur",
+    "Pakakas Dapur Sunda",
+    "Kekecapan Ngaran Anak Sato",
+    "Dongeng Fabel Sunda",
+    "Carita Sasakala",
+    "Istilah Waktu Sunda",
+    "Undak-Usuk Basa",
+    "Pakakas Tradisional Dapur Sunda",
+    "Ngaran Anak Sasatoan",
+    "Ngaran Kekembangan",
+    "Wanci & Pananggalan Sunda",
+    "Tatakrama Basa Lemes",
+    "Sasatoan Sabudeureun Urang",
+    "Kadaharan Tradisional Sunda"
+  ],
+  "sunda_G4": [
+    "Aksara Sunda Baku",
+    "Rarangkén Aksara Sunda",
+    "Kekecapan Kaayaan",
+    "Pupuh Sunda",
+    "Pupuh Kinanti",
+    "Seni Calung Sunda",
+    "Kecap Saharti (Sinonim)",
+    "Sastra Tembang Pupuh Sunda",
+    "Watek Pupuh Sunda",
+    "Kadaharan Tradisional Sunda",
+    "Kecap Kantetan",
+    "Carita Rahayat & Sasakala",
+    "Tatakrama Basa Lemes"
+  ],
+  "sunda_G5": [
+    "Struktur Sisindiran",
+    "Rupa-Rupa Sisindiran",
+    "Sisindiran Wawangsalan",
+    "Paribasa Sunda",
+    "Tatakrama Basa Sunda",
+    "Kampung Adat Sunda",
+    "Sisindiran Paparikan",
+    "Wawangsalan Sunda",
+    "Kampung Adat Tatar Sunda",
+    "Aturan Pupuh Sunda",
+    "Upacara Adat Sunda",
+    "Tatakrama Basa Lemes",
+    "Kecap Rajekan"
+  ],
+  "sunda_G6": [
+    "Biantara (Pidato) Basa Sunda",
+    "Pangbagea Sampurasun",
+    "Carita Babad & Sejarah",
+    "Paribasa Babasan Sunda",
+    "Seni Tari Sunda",
+    "Rarangkén Pamaéh dina Aksara Sunda",
+    "Pupuh Sekar Ageung",
+    "Kandaga Kecap Sunda",
+    "Struktur Biantara (Pidato)",
+    "Seni Pagelaran Sunda",
+    "Aksara Sunda Larapan",
+    "Karya Sastra Carpon",
+    "Babasan Sunda",
+    "Sajarah Kasultanan Tatar Sunda",
+    "Rarangkén Aksara Sunda",
+    "Pupuh Sekar Alit"
+  ]
+}

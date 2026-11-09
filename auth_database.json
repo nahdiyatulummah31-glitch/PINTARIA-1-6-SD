@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "user_id": "usr_admin_01",
+      "email": "nahdiyatulummah31@gmail.com",
+      "full_name": "Super Admin Nahdiyatu",
+      "username": "admin",
+      "password_hash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+      "password_salt": "seed_admin_salt_88",
+      "role": "ADMIN",
+      "status": "ACTIVE",
+      "registered_at": "2026-10-01T00:00:00.000Z",
+      "last_login_at": "2026-10-05T12:10:53.473Z",
+      "last_activity_at": "2026-10-05T12:10:53.473Z",
+      "active_session_id": "sess_1791202253474_laobvyv",
+      "session_created_at": "2026-10-05T12:08:33.487Z"
+    },
+    {
+      "user_id": "usr_admin_02",
+      "email": "rekrutmenrsutrimedikaketapang@gmail.com",
+      "full_name": "Admin Rekrutmen Trimedika",
+      "username": "adminrekrutmen",
+      "password_hash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+      "password_salt": "seed_admin_salt_89",
+      "role": "ADMIN",
+      "status": "ACTIVE",
+      "registered_at": "2026-10-01T00:00:00.000Z",
+      "last_login_at": "2026-10-01T00:00:00.000Z",
+      "last_activity_at": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "user_id": "usr_teacher_01",
+      "email": "guru@pintaria.com",
+      "full_name": "Ibu Ratna Dewi, S.Pd",
+      "username": "gururatna",
+      "password_hash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+      "password_salt": "seed_teacher_salt_77",
+      "role": "USER",
+      "status": "ACTIVE",
+      "registered_at": "2026-10-01T00:00:00.000Z",
+      "last_login_at": "2026-10-05T12:11:00.194Z",
+      "last_activity_at": "2026-10-05T12:11:00.194Z",
+      "active_session_id": "sess_1791202260194_ienkx4h",
+      "session_created_at": "2026-10-05T12:08:35.947Z"
+    }
+  ],
+  "accessGrants": [
+    {
+      "access_id": "acc_admin_01",
+      "user_id": "usr_admin_01",
+      "email": "nahdiyatulummah31@gmail.com",
+      "product_id": "BUNDLE_ALL",
+      "product_name": "Paket Bundling Lengkap Semua Kelas (1-6 SD)",
+      "status": "ACTIVE",
+      "granted_at": "2026-10-01T00:00:00.000Z",
+      "granted_by": "SYSTEM"
+    },
+    {
+      "access_id": "acc_admin_02",
+      "user_id": "usr_admin_02",
+      "email": "rekrutmenrsutrimedikaketapang@gmail.com",
+      "product_id": "BUNDLE_ALL",
+      "product_name": "Paket Bundling Lengkap Semua Kelas (1-6 SD)",
+      "status": "ACTIVE",
+      "granted_at": "2026-10-01T00:00:00.000Z",
+      "granted_by": "SYSTEM"
+    },
+    {
+      "access_id": "acc_teacher_01",
+      "user_id": "usr_teacher_01",
+      "email": "guru@pintaria.com",
+      "product_id": "KELAS_1",
+      "product_name": "Paket Belajar & Latihan Soal Kelas 1 SD",
+      "status": "ACTIVE",
+      "granted_at": "2026-10-04T03:01:49.978Z",
+      "granted_by": "ADMIN"
+    }
+  ],
+  "logs": [
+    {
+      "log_id": "log_1791082889747_24a4",
+      "user_id": "usr_teacher_01",
+      "email": "guru@pintaria.com",
+      "username": "gururatna",
+      "product_id": "KELAS_1",
+      "login_method": "GOOGLE",
+      "login_at": "2026-10-04T03:01:29.747Z",
+      "session_id": "blocked",
+      "status": "BLOCKED"
+    },
+    {
+      "log_id": "log_1791082898303_sn88",
+      "user_id": "usr_teacher_01",
+      "email": "guru@pintaria.com",
+      "username": "gururatna",
+      "product_id": "KELAS_1",
+      "login_method": "GOOGLE",
+      "login_at": "2026-10-04T03:01:38.302Z",
+      "session_id": "sess_1791082898302_zwokmk4",
+      "status": "SUCCESS"
+    },
+    {
+      "log_id": "log_1791202113487_bs53",
+      "user_id": "usr_admin_01",
+      "email": "nahdiyatulummah31@gmail.com",
+      "username": "admin",
+      "login_method": "GOOGLE",
+      "login_at": "2026-10-05T12:08:33.487Z",
+      "session_id": "sess_1791202113487_b2fyvvn",
+      "status": "SUCCESS"
+    },
+    {
+      "log_id": "log_1791202115947_j2hp",
+      "user_id": "usr_teacher_01",
+      "email": "guru@pintaria.com",
+      "username": "gururatna",
+      "product_id": "KELAS_1",
+      "login_method": "GOOGLE",
+      "login_at": "2026-10-05T12:08:35.947Z",
+      "session_id": "sess_1791202115947_yxti63o",
+      "status": "SUCCESS"
+    },
+    {
+      "log_id": "log_1791202253474_f4l4",
+      "user_id": "usr_admin_01",
+      "email": "nahdiyatulummah31@gmail.com",
+      "username": "admin",
+      "login_method": "PASSWORD",
+      "login_at": "2026-10-05T12:10:53.473Z",
+      "session_id": "sess_1791202253474_laobvyv",
+      "status": "SUCCESS"
+    },
+    {
+      "log_id": "log_1791202260194_kxcy",
+      "user_id": "usr_teacher_01",
+      "email": "guru@pintaria.com",
+      "username": "gururatna",
+      "login_method": "PASSWORD",
+      "login_at": "2026-10-05T12:11:00.194Z",
+      "session_id": "sess_1791202260194_ienkx4h",
+      "status": "SUCCESS"
+    }
+  ],
+  "settings": {
+    "session_timeout_hours": 24
+  }
+}
